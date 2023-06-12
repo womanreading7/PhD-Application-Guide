@@ -694,17 +694,68 @@ Talking about the hardships you've faced as a first-generation student is encour
 
 #### In your closing paragraph, summarize what you've taken away from your struggles and how these have only made you a stronger PhD applicant. 
 
+# Reducing Application Fee Burden
+Unfortunately, PhD applications are expensive. They often range from $70 to $130 a piece. If you're applying to approximately 10 schools, which is the typical suggestion, these fees can add up quickly. With that being said, let's talk about how to mitigate the burden of these fees.
+
+## Applying to Programs Selectively
+With acceptance rates being intimidatingly low, it is tempting to want to apply to as many programs as possible to try to increase your chances of getting in somewhere. Beyond all the other reasons this would be a bad idea, it would be incredibly expensive as well. Consider some of these points to help you apply to programs selectively and keep the cost of applying down.
+
+### Only apply to programs you'd be thrilled to attend.
+Let's dispel the myth of "safety schools" again. There is no such thing as a safety school when it comes to PhD programs. If you're thinking about applying to a program you aren't excited about just because you think it's a "safe" option, I strongly recommend you don't apply there. Let's be realistic, 5-7 years is a LONG time to spend at a school and with an advisor. If you wouldn't be ecstatic about spending this time at a program, why apply?
+
+### The "rule of 10" isn't really a rule.
+You'll see a lot of resources out there that encourage you to apply to a minimum of 10 programs, which I mentioned in the intro to this post. If there aren't 10 programs out there that you'd be thrilled to attend, don't stretch yourself to meet an arbitrary number. While it's probably not the best idea to only apply to 1 program, it isn't strictly necessary to apply to 10.
+
+### Only apply to programs with at least 2 faculty you'd like to work with.
+I've mentioned this in other posts, and it's essential. If there's only 1 professor you'd want as your advisor, I strongly advise against applying to that program.
+
+## How to Find and Submit Application Fee Waivers
+Nearly every PhD program I've come across offers application fee waivers, however, they can sometimes be difficult to find. If you plan to request an application fee waiver, I've listed a few ways to locate them and some very important things to keep in mind here. 
+
+### Where to get fee waivers
+#### The first place to start is simple. Just google "*University name* graduate application fee waivers"
+Most Universities will have a webpage dedicated to discussing how to access and submit application fee waivers and who is eligible to receive them. It should be one of the first search results you get.
+
+#### Email the graduate program coordinator.
+If your Google search fails, try reaching out to the graduate program coordinator instead. They can give you additional information about waiver eligibility and access.
+
+#### Attend a program information session.
+Many programs host information sessions for prospective applicants during the summer. It's almost guaranteed that at some point in the session application fee waivers will be discussed. Check the program website regularly to look out for scheduled information sessions.
 
 
+### How to submit fee waiver requests
+This likely varies a depending on the program, so your safest bet is to get as much information as you can from one of the resources I mentioned above. In general, however, many programs allow you to submit an application fee waiver request within the graduate application portal. For other programs, the waiver request may need to be submitted to a specific email address. 
 
+### Important things to keep in mind about application fee waivers
+#### Make sure you are checking in on the application fee waiver process for your programs at least a month in advance.
+To get an application fee waiver, you will need to submit some type of supporting documentation to verify that you apply. Gathering this documentation might take time, so you want to make sure you know in advance what you'll need. 
 
+#### Many programs will require you submit your entire, finalized application at least 5 days ahead of the official deadline to be considered for an application fee waiver.
+Again, this will depend on the program, but many will ask you to attach your fee waiver supporting documentation in the application portal and submit your application several days ahead of the posted program deadline. This means all of your application information, transcripts, and statements need to be finalized and uploaded to the application portal too. 
 
+## Who is Eligible to Receive Application Fee Waivers
+Once again, this will vary depending on the program. In general, there are 3 main groups of people who will most likely qualify:
 
+### 1. Individuals who participated in eligible diversity programs
+Most Universities will offer application fee waivers to people who participated in one or more select diversity programs. The list of eligible programs can differ from school to school, so you'll want to check on this for every University you apply to.
 
+### 2. U.S. Veterans
+If you received a general or honorable discharge from the armed forces, many Universities will grant you an application fee waiver.
 
+### 3. Individuals who demonstrate a financial need
+What constitutes as a "financial need" will differ from program to program. Usually, this is based on either your annual income or your Estimated Family Contribution from your Student Aid Report, which is based on your FAFSA information. If your income or Estimated Family Contribution is below a certain cutoff determined by the program, you may be eligible to receive a fee waiver.
 
+## Supporting Documentation
+The documentation you will be required to submit to verify you qualify for a fee waiver will, surprise surprise, potentially vary from program to program. In general, the documents below are required.
 
+### Group 1: Diversity Programs
+You will most likely need to submit a letter from the director of that program verifying that you did participate.
 
+### Group 2: U.S. Veterans
+In most cases, you will need to submit a DD214.
 
-
-
+### Group 3: Financial need
+You will most likely be required to submit one of the following:
+#### 1. A letter from the financial aid office at your current University which states somewhere that your Estimated Family Contribution is below a certain amount (determined by the University you are applying to).
+#### 2. Your Student Aid Report, derived from your FAFSA, which shows that your Estimated Family Contribution is below a certain amount (determined by the University you are applying to).
+#### 3. Your most recent Federal Income Tax Return. If you're an independent, this will be your 1040. If you're a dependent, you'll need your caregiver's return. These will need to show an income that is below a certain threshold (determined by the University you are applying to).
