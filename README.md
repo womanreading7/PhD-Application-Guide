@@ -383,8 +383,86 @@ Make sure things like cost of living, location, etc. wouldn't be a deal breaker 
 #### Ask yourself an important question - would I be thrilled to attend this school?
 At this point you've done your research on the advisors and the details of the program. If you were accepted, is this the kind of institution you'd be ecstatic to spend the next 5-7 years at? If your answer is no, why are you applying there?
 
+# Reaching Out to Potential Advisors
+If you saw the application timeline section, you'll know that I recommend beginning to reach out to potential faculty advisors by late summer, and above I gave you information on how to identify these faculty. Now you might be thinking, "Great, I have my list! So...how do I reach out to them?" in which case, you've found the right post. 
 
+## Email Templates for Initial Introductions 
+The key with your initial outreach to faculty is to let them know you are interested in working with them and give them a bit of background about yourself without making this too lengthy. Faculty are busy people! You don't want to send a multi-paragraph email that's going to be laborious for them to read. Keep it short and to the point. 
 
+Rather than explaining everything about your background, I strongly advise you to attach your CV to the email. If you think there is something especially strong about your research experience, you can consider adding no more than 1-2 sentences explaining this and refer them to your CV for more details.
 
+As far as what to put in the subject line of the email, I recommend "Prospective _____ program PhD Applicant Introduction"
 
+### Template if you are unsure if they are accepting students
+*"Hello Dr. ______, 
+My name is ______ and I am a prospective applicant to the ______ PhD program for this upcoming cycle. I have read your work on ______ and I believe this aligns strongly with my interest in researching ______. I am extremely interested in the chance to work with you, and I am wondering if you will be accepting a PhD student to your lab this cycle? I have attached my CV to this email for your reference. I greatly appreciate your consideration, and I look forward to hearing back from you."
 
+### Template if you know they are accepting students
+*"Hello Dr. _____, 
+My name is ______ and I am a prospective applicant to the ______ PhD program for this upcoming cycle. I have read your work on _______ and I believe this aligns strongly with my interest in researching _______. I noted that you are considering accepting a PhD student this cycle, and I am extremely interested in the chance to work in your lab. I have attached my CV to this email for your reference. I greatly appreciate your consideration, and I hope to have my application reviewed by you this fall."
+
+## Emailing Multiple Faculty in the Same Department
+I often see applicants posting questions about whether it is appropriate to reach out to multiple faculty in the same department, and the answer is....absolutely! In fact, it is encouraged! You will be expected to list 2-3 faculty you are interested in working with in your Statement of Purpose/Personal Statement. In order to do this, you need to make sure the folks you mention are accepting students and or let them know about your interest.
+
+The most common mistakes I see applicants make when emailing multiple faculty in the same department are accidentally addressing the wrong professor in the email and not tailoring each email to specific faculty. 
+
+Here are some tips for reaching out to faculty in the same department:
+### 1. Do NOT include multiple faculty in the same email
+Just because professors know you will likely be reaching out to other faculty in the department does not mean you should go ahead and email them all together!
+
+### 2. Double check you are emailing the correct faculty member
+Before sending your email, make sure the professor you have mentioned in the opening and body of the email matches the email address you have in the "send to" line.
+
+### 3. Tailor each email to the faculty you are contacting
+Even though the professors you are reaching out to may have very similar research and may even often collaborate together, there should be some obvious ways their research diverges. Be sure to mention something specific about their work that has caught your eye and aligns with your research question(s). This shows you have done your homework and are sure you would be a good fit for their lab.
+
+## If a Potential Advisor Requests a Meeting
+After reaching out, you may get a response from the potential advisor asking if you would be interested in having a quick chat with them. This is a great sign! This shows that they have reviewed your CV and are interested in learning more about you.
+
+While nothing is guaranteed in the PhD application process, and this by no means is a sign that you will absolutely be accepted, it is a fantastic chance to make yourself memorable to them when it comes time for applications to be reviewed. It is also a great opportunity to get more information about their research that you can use in your Statement of Purpose/Personal Statement!
+
+Here are some tips to make the most of these chats:
+
+### 1. Do a bit more in-depth research about their work 
+Assuming it is mid to late summer (when I recommend reaching out to potential advisors) you likely have a good idea of what this professor studies, but may not yet have done a deep dive on their work. Before meeting with them, take some time to do this. Read a few more of their recently published papers and take a closer look at their lab website if they have one. 
+
+### 2. Reflect on your research/academic experiences
+These chats are a great time    to learn more about a potential advisor, but also to make sure they get to know more about you! Take some time to think of how your past and or current work aligns with theirs so you are able to make a good pitch on why you would be a good fit for their lab. Read through your CV and think of some specific points you can elaborate on that they wouldn't know just from reading it.
+
+### 3. Make a list of questions to ask them
+In a lot of cases, these meetings will only be 15-30 minutes. This may seem like sufficient time, but it can really fly by! You want to make sure you are gaining information that will be useful to include in your SOP/Personal Statement. The following are a few good questions to ask to help you with this:
+#### Do you have any ongoing projects that an incoming student could be assigned to?
+#### Where do you see your research heading over the next 5 years?
+#### Are there any specific lab skills you are looking for an incoming student to have that could help on your ongoing/future projects?
+#### Based on my CV, are there any concerns you have about my potential fit for your lab that I can address?
+
+## If a Faculty Member is Not Accepting Students
+An unfortunate amount of the PhD application process is simply luck. You may have found a great potential advisor at a University you love, in a program that seems fantastic, then come to find out that this happens to be a cycle they are not accepting a student. 
+
+If this is the case, there are a few things you need to consider:
+### 1. Are there 2-3 other faculty in this program you'd be interested in working with?
+If the answer to this question is no, I would recommend scrapping this program from your list and not applying there. In my opinion, it is not worth the time, money, and effort to apply to a program that does not have at least 2 strong potential faculty matches.
+
+### 2. Is it worth it to wait to apply in a different cycle?
+Maybe you really feel this potential advisor is the absolute perfect fit and they have indicated they will be taking a student in the next cycle, or maybe several faculty members you have reached out to are not taking students this cycle. It's important to ask yourself which matters more to you: applying right now or waiting for the right fit. 
+
+### 3. Asking if they know of any colleagues who may be accepting students
+Creating your list of faculty is difficult and often time consuming. Even if you have put substantial effort into finding potential advisors, it is entirely possible that there are folks who might be a good fit that you have missed. 
+
+If this faculty member seems open to discussion, consider responding to ask if they know of anyone in the department or any colleagues in a similar field who may be accepting a student this cycle.
+
+Note: Please only do this if you find your list of potential advisors is dwindling significantly and you have already put as much effort as possible into finding faculty to apply to. I've said it over and over in this blog; faculty are busy people. You do not want to give the impression that you are asking a professor to do the hard work of finding an advisor for you. You can mention in your response that you are dedicated to pursuing your research this cycle, but have had the unfortunate experience of many faculty you've contacted not accepting students. 
+
+## If You Do Not Receive a Response
+Here it is again....faculty are very busy! It is not at all uncommon to not receive a response from a professor you have reached out to. Imagine you are a professor juggling courses, your lab, grant proposals, your personal life, and a flood of emails from applicants who want to work with you! Doesn't sound easy, right? Remember to cut them some slack. 
+
+If you don't get a response to your initial outreach, you can consider doing the following:
+
+### Send a follow-up email about 2-3 weeks after your initial email. 
+Remember to be as courteous as possible. Under absolutely no circumstances should you accuse a faculty member of ignoring you or send an email that makes it seem you are bitter or annoyed. I hate that I have to say this, but I have seen posts out there from applicants that feel entitled to a professor's time and reply. Trust me, I know it is frustrating when you are trying to figure out where you will be applying and you aren't getting a response. That doesn't give anyone permission to be rude to faculty.
+
+### Consider reaching out to the program coordinator.
+Often times, program coordinators will be aware of which faculty are and are not accepting students each cycle. They may be able to tell you whether your potential advisor(s) are among those accepting a student. Program coordinators also often know whether final decisions have been made about which faculty will be accepting students and can let you know if this hasn't been determined yet. 
+
+### Check the program and faculty websites regularly. 
+It is common for programs to post a list of which faculty will be considering accepting students or for faculty to update their departmental page/lab website to include whether they are accepting students. Be sure to check these sites regularly to help determine where you want to apply if you haven't received a response from or about your potential advisors.
