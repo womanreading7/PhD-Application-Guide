@@ -529,12 +529,92 @@ Please trust that applications are reviewed more holistically than you might thi
 
 Keep your focus on the ways you've learned and grown from the challenges you've faced. Know and believe that struggling at times does not mean you are unprepared or unworthy of being accepted to a PhD program. 
 
+# Formulating Your Research Question(s)
+I talk a lot about the importance of having a specific idea of what you want to study in your PhD program. Knowing what your research question(s) is will help you tremendously in narrowing down your list of potential advisors and making your SOP stand out. Sounds good, right? Let's talk about how to do it!
 
+## Why it's Important to Have a Research Question(s)
+Take a second to imagine you are on a PhD admissions committee. Right now, you are evaluating two application packets.
 
+In the first application, you have a candidate whose SOP states they are extremely interested in machine learning. They want to work with Professors X and Y studying computer vision.
 
+In the second application, you have another candidate whose SOP states they are extremely interested in machine learning. They want to work with Professors X and Y studying how object detection computer vision can utilize a specific method to improve identification of tumors on MRI scans.
 
+Who do you think has a better idea of what they want to study? Who do you think is more prepared to begin a PhD? Who would you accept?
 
+(P.S. to all my computer science/machine learning people out there....I tried my best, okay? I'm sorry if that actually made no sense...I am just a humble psychology student.)
 
+## How to Formulate Your Research Question(s)
+Formulating your research question(s) can look different depending on how specific of an idea you already have on what you intend to study. If you're finding you're still stuck on a very broad idea, Jordon Dotson from WriteIvy has an effective formula to help you out! I highly encourage you to check out his site and get his PhD SOP Starter Kit, which goes into much more detail and provides an example. 
+
+### His formula goes like this:
+#### a) State your academic field
+#### b) Choose two subfields in that field that you have already researched or that seem interesting 
+#### c) Choose two subfields within those subfields that seem most exciting to you
+#### d) For each subfield, think of a problem that seems interesting
+#### e) Of these problems, which would you like most to work on as a PhD student?
+
+If you already have experience in a specific line of research that you intend to continue pursuing in your PhD program, that's excellent! This is the boat I was fortunate enough to be in when I started working on my applications. If you're looking to get very specific in your SOP about what you'd like to study like I was, take a look below on some questions to ask yourself.
+
+### Questions to get specific
+#### What "big idea" in your previous research interests you the most?
+#### What specific variables and or techniques did you examine/use in your past research that interest you and relate to your "big idea"? 
+#### Are there any specific populations you think your "big idea" would be particularly relevant to?
+#### Are there any gaps in the literature you've been able to identify that studying these variables or using these techniques could help fill?
+#### Are there any models/theories you've come across that you think could be extended to fill a gap in the literature?
+
+How to use those questions above might seem a bit abstract, so let's put all of this together in an example! Let's say you have research experience or an interest in studying how physical and mental health are related to one another.
+
+### Example
+#### What "big idea" interests you the most? 
+In this case, our "big idea" is how physical and mental health are related to one another.
+
+#### What specific variables and or techniques interest you related to your "big idea"?
+In this example, let's say you are really excited about investigating the relationship between poor diet and depression.
+
+#### Are there any specific populations you think your "big idea" would be particularly relevant to?
+You've started reading the literature on the relationships between poor diet and depression in the populations you've identified. You notice that in all the papers you've come across, none seem to be talking about the role that lack of access to health education resources might be playing a role in these relationships.
+
+#### Your research question
+How does access to health education resources impact the relationship between diet and depression in communities with limited access to high-quality, nutritious food options?
+
+### Note: Obviously, the field you are applying to is going to shape how you formulate your research question(s).
+If you're interested in the relationships between diet and depression but are applying to biology PhD programs, the research question clearly isn't going to work for you. Let your intended program guide you in identifying specific variables of interest.
+
+## How to Use Your Research Question(s) to Find Advisors
+Having a clear research question(s) will help guide you in finding the best fit advisors and in narrowing down your list of potential programs. Once you have a specific idea of what you want to study, the search becomes much more manageable. 
+
+If you read the section about choosing where to apply, you'll know that I talk about using your research question(s) to narrow and finalize your list of potential advisors. While having a broad research interest is fine to create your initial list, your research question(s) will undoubtedly help you figure out who will make the final cut. 
+
+### How to use your research question(s)
+#### Google scholar is your friend
+Look at the recent (last 5 years) publications of the faculty on your list. You should be able to get a sense of whether your research question(s) fits with the work they do. If you find that some of the professors on your initial list don't quite fit with your now refined research interest, that's okay! Keep diving into the literature and take note of published faculty who might be a better fit.
+
+#### Remember that specific doesn't mean inflexible
+Personally, I started my application process with a specific research question already in mind. The more I read on the topic, however, I found that there were other related but distinct questions I was interested in answering as well. If a professor's work doesn't exactly match what you have in mind to study right now, but you find yourself really intrigued by their interest, don't write them off. Keep digging into their work and see if it leads you to another research question.
+
+#### Keep track of more than just names
+I found it incredibly useful in making my program/faculty lists to create a Google Docs chart. I had columns including: Faculty name, their university/department, a brief description of their research, links to their papers I found most interesting, and a brief rationale as to why their work related to my research questions.
+
+## How to Include Your Research Question(s) in Your SOP
+You did all the hard work of figuring out exactly what you want to study, now you need to show that to an admissions committee. The best way to do that is through your statement of purpose. 
+
+If you read the section about SOPs, you'll know I recommend starting your SOP by jumping straight into your research question(s) and, in the second section, connecting the work of the faculty you're applying to work with to your research question(s). 
+
+As a rudimentary outline, think about it like this:
+
+"Professor X studies _____. Their work is impactful because ______. My research question is ______ and connects to their work because _______. Together, we could study ________."
+
+Obviously, you'll want to significantly polish this up, but it's a good starting point to get you thinking about why this professor's work matters, why they would be a good fit to advise you, and what you could contribute to their lab. 
+
+### Example from my SOP
+Using the outline above, when I started on my SOP I had something like this (keep in mind I've made this a bit vague because this work is very niche):
+
+Professor X studies the relationship between physiology and psychopathology. Their work is impactful because it demonstrates how our cognition and physical health can influence one another. My research aim is to understand how the nervous system and health behaviors interact in conditions like anxiety. Together, we could study how the nervous system and sleep influence one another and contribute to the maintenance of anxiety.
+
+#### My SOP excerpt
+After I polished the outine above, I worked this into my SOP like this:
+
+*"My intended area of research strongly aligns with work being conducted by multiple faculty members at the University of _____. Dr. _____ long standing and diverse research regarding _______ is of particular interest to me. The ______ model, pioneered by Dr. ______, has been pivotal to our understanding of _______. I seek to explore how components of this model can be used to elucidate the connection between the autonomic nervous system, sleep, and psychopathology such as anxiety disorders. One focused line of inquiry related to this overall aim is investigating whether differences in _______ may explain the mixed findings regarding the association between sleep quality and trait anxiety. I am also interested in working with Dr. _______ to examine how _______ and the controlling neural structures change across the human lifespan. In this aim, I plan to investigate the ability of older adults to maintain positive affect despite age-related declines in ________ and prefrontal cortex activity."
 
 
 
