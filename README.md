@@ -1056,64 +1056,64 @@ Things to look out for that show a program may be unorganized:
 
 ## Questions to Ask General Faculty
 As I stated above, you do not want to be in a situation with faculty where you say you do not have any questions for them. This shows a lack of care and curiosity on your part. The following are questions you can consider asking faculty who may not be your potential advisor about the program.
-### What professional development services are offered to graduate students?
-### Are students provided with funding to attend conferences by the department or is this provided by individual labs?
-### Can you describe what milestones this program requires be met prior to defending?
-### What are the career outcomes like for students who graduate from this program?
-### Are students required to TA and, if so, what is the specified time commitment for this?
-### Are students required to teach their own course at any point in the program?
-### What do you consider the greatest strength of this program?
-### Is it common for students to collaborate on projects with other faculty?
-### How much freedom are students given in choosing their courses?
-### What percentage of students pass qualifying exams?
-### What is the biggest strength of this program in preparing students for a life in academia?
-### What kind of outreach or mentoring programs are students able to participate in?
-### What qualities make a student successful in this program?
+#### What professional development services are offered to graduate students?
+#### Are students provided with funding to attend conferences by the department or is this provided by individual labs?
+#### Can you describe what milestones this program requires be met prior to defending?
+#### What are the career outcomes like for students who graduate from this program?
+#### Are students required to TA and, if so, what is the specified time commitment for this?
+#### Are students required to teach their own course at any point in the program?
+#### What do you consider the greatest strength of this program?
+#### Is it common for students to collaborate on projects with other faculty?
+#### How much freedom are students given in choosing their courses?
+#### What percentage of students pass qualifying exams?
+#### What is the biggest strength of this program in preparing students for a life in academia?
+#### What kind of outreach or mentoring programs are students able to participate in?
+#### What qualities make a student successful in this program?
 
 ## Questions to Ask Potential Advisors
 In addition to asking questions about your potential advisor's research, you should also be trying to get a sense of what they expect from their students and what it is like to work in their lab. Asking some of the following can help you do just that!
-### Are students in your lab able to create their own projects, or are they typically assigned to ongoing projects?
-### How often do students in your lab publish?
-### What do students from your lab typically do after graduating?
-### Do you allow your students to collaborate on projects in other labs?
-### What qualities make students in your lab successful?
-### What big picture goal will your lab be working toward over the next 5 years?
-### How often are lab meetings held?
-### Does your lab have a lab manager or research assistants?
-### Are your students expected to be working in the lab, or is working from home/elsewhere on campus acceptable?
-### How often do your students get to attend conferences?
+##### Are students in your lab able to create their own projects, or are they typically assigned to ongoing projects?
+#### How often do students in your lab publish?
+#### What do students from your lab typically do after graduating?
+#### Do you allow your students to collaborate on projects in other labs?
+#### What qualities make students in your lab successful?
+#### What big picture goal will your lab be working toward over the next 5 years?
+#### How often are lab meetings held?
+#### Does your lab have a lab manager or research assistants?
+#### Are your students expected to be working in the lab, or is working from home/elsewhere on campus acceptable?
+#### How often do your students get to attend conferences?
 
 ## Questions to Ask Current Grad Students
 As I stated above, I believe one of the best indicators of whether a program is supportive is how the current graduate students answer your questions. Asking some of the following can help you get a better sense of how students feel about the program.
-### Is there enough flexibility in choosing courses to tailor your classes to fit your specific interests?
-### Have you found the TA requirements to be reasonable to balance with your coursework and research?
-### What kind of professional development resources does the program offer graduate students?
-### Is your research project what you thought you'd be working on when you started the program?
-### Do you feel you've been given the freedom and support to pursue your own ideas in your lab?
-### Is it common for graduate students to get to collaborate with faculty outside of their main lab?
-### Do you feel the stipend is comfortable enough to live in the area?
-### How often do you get to attend conferences?
-### Do you feel the the program is inclusive? What DEI resources are available to students?
-### What were the main factors that led you to choosing this program over others?
-### What is the area around campus like? Have you enjoyed living in this area?
-### Do you have any tips for maintaining a successful relationship with your advisor?
+#### Is there enough flexibility in choosing courses to tailor your classes to fit your specific interests?
+#### Have you found the TA requirements to be reasonable to balance with your coursework and research?
+#### What kind of professional development resources does the program offer graduate students?
+#### Is your research project what you thought you'd be working on when you started the program?
+#### Do you feel you've been given the freedom and support to pursue your own ideas in your lab?
+#### Is it common for graduate students to get to collaborate with faculty outside of their main lab?
+#### Do you feel the stipend is comfortable enough to live in the area?
+#### How often do you get to attend conferences?
+#### Do you feel the the program is inclusive? What DEI resources are available to students?
+#### What were the main factors that led you to choosing this program over others?
+#### What is the area around campus like? Have you enjoyed living in this area?
+#### Do you have any tips for maintaining a successful relationship with your advisor?
 
 ## Questions You May Be Asked
 Questions you'll be asked during interviews will, of course, vary depending on your field and how technical or in-depth your interviewer wants to be. The following are some general questions you might be asked.
-### Can you give an overview of your previous research experience?
-### What are your more significant research accomplishments?
-### Can you talk about any challenges you encountered in your research and how you overcame these?
-### How do you handle setbacks in your research? 
-### How has your research experience prepared you for graduate school?
-### What qualities do you possess that will help you succeed in a graduate program?
-### Why are you drawn to this program specifically?
-### Why do you think you would be a good fit in this program or with your potential advisor?
-### What do you want to do after obtaining your PhD?
-### What do you think you can contribute to this program/lab?
-### Why does my work or the work of your potential advisor interest you?
-### What projects do you see yourself working on in this lab?
-### How did your interest in your chosen field develop?
-### Is your research interdisciplinary? Who in the department do you see yourself collaborating with if so?
+#### Can you give an overview of your previous research experience?
+#### What are your more significant research accomplishments?
+#### Can you talk about any challenges you encountered in your research and how you overcame these?
+#### How do you handle setbacks in your research? 
+#### How has your research experience prepared you for graduate school?
+#### What qualities do you possess that will help you succeed in a graduate program?
+#### Why are you drawn to this program specifically?
+#### Why do you think you would be a good fit in this program or with your potential advisor?
+#### What do you want to do after obtaining your PhD?
+#### What do you think you can contribute to this program/lab?
+#### Why does my work or the work of your potential advisor interest you?
+#### What projects do you see yourself working on in this lab?
+#### How did your interest in your chosen field develop?
+#### Is your research interdisciplinary? Who in the department do you see yourself collaborating with if so?
 
 # Dealing With Rejections
 There's no denying it, rejections can be hurtful. It's not a great feeling when you have put so much time, effort, and care into your application just for the end result to be a "no thank you" from a program. It's something that almost every single applicant will have to deal with, so I wanted to talk a bit about how to bounce back from rejections.
