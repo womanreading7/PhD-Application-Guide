@@ -311,7 +311,77 @@ When explaining why that program is a good fit, consider trying to add a few det
 ### Section 3: Your qualifications
 When describing your research/academic experiences, try to weave in the things you'd be mentioning in a personal statement (e.g. what you gained from these, how they helped you grow, or important lessons you learned). If you have space, including especially relevant volunteer, outreach, or mentoring experiences can also be useful here.
 
+# Choosing Where to Apply
+Finding the right PhD programs to apply to is half the battle when it comes to admissions. You could have the most impressive application packet in the world and it wouldn't matter if you applied to all the wrong places. So, let's talk about how to navigate this process and find the programs that will give you the best shot at being accepted.
 
+## When and How to Start Looking
+If you read my application timeline section, you'll know that I recommend starting your list of potential schools sometime in the Spring. If this seems like it's way too far in advance...keep reading to figure out why I put this so early on the timeline.
+
+### First and foremost, remember that you care less about the school than who is working there.
+It's a common trap that applicants fall into: treating the PhD process like undergrad admissions. They start by writing down the names of schools they consider to be well-known or prestigious. Let's be clear. You are looking for 2-3 faculty members you would like to work with. You are looking for a research fit with faculty, not an infatuation with a University reputation. Will some of the faculty you find be associated with well-known schools? Sure! That doesn't mean you should start by looking at schools first.
+
+### A great place to start is by taking note of who the faculty authors are on articles you find that are related to your research question(s)/interest. 
+Look into their Google Scholar page and see if they have other papers related to the topic and what University they are associated with. Check places like ResearchGate to see who these faculty often collaborate with to expand your list. 
+Visit their faculty page on the University website and see if they have a lab website with more information about their ongoing projects. Jot down the names of faculty and their institutions if you think they could be a good fit. 
+
+If this sounds incredibly tedious that's because.....well, it is. There's no denying that this is a time-consuming process, but one that is absolutely worthwhile. In my opinion, this is the best way to ensure that you are keeping your focus on finding the programs and potential advisors that will be the best fit for you. If your list of faculty is starting to look a little too long for your liking, that's okay. Many of these folks will end up not making the final cut for various reasons (they work in a different department than what you are ultimately interested in, they are not accepting students this cycle, etc.)
+
+### The exception to this is if you are limited geographically. Maybe your heart is set on finding a program in a specific state or area. 
+In this case, your best bet is to actually work backward from what is stated above. 
+Start by looking at Universities in your region of interest and browsing the faculty in the program you want to apply to, then look at their recently published works.
+
+## Important Factors to Consider
+I stated above that you should care less about the school than who is working there, and it's true. While research fit should be your absolute top priority when deciding where to apply, it doesn't mean that it should be the only factor. 
+
+### Factors beyond research fit:
+#### Location
+Let's be realistic, 5-7 years is a long time to spend somewhere. If you found a program with potential advisors but know you'd be completely miserable living in that area, don't ignore that. 
+
+#### Cost of Living
+Associated with location, consider the cost of living in the area of each program. 
+The unfortunate fact is, PhD students don't make much money. Many programs in high cost of living areas will have higher than average stipends, but that doesn't necessarily mean it's enough to be comfortable.
+
+#### How many potential advisors you identified
+At each program, you need to identify a minimum of 2 potential advisors. If you're only seeing one professor you have a strong potential match with, it may not be the best program for you.
+
+#### Services available to graduate students
+If you look a little closer at a University and can't seem to find any mention of professional development, mentorship, mental health, diversity and inclusion, or any other services offered to graduate students....yikes. Even if you are somehow lucky enough to find the most supportive, involved PhD advisor in the world, you're still going to need extra resources at times. 
+
+### Qualifying exam passage rates, placements, attrition rates
+If you notice a program has a troublingly low percentage of students that pass their qualifying exams or a high percentage of students leave the program before getting the degree....run. If you see that most students that graduate from the program do not continue in academia, and that is what you are interested in doing, that's another sign that it may not be the best fit.
+
+## Do Safety Schools Exist?
+I'll keep this short - no. Safety schools do not exist when it comes to PhD admissions. There are countless stories of applicants being accepted to some of the best programs in their field and being rejected at "lower ranked" institutions. Personally, I experienced this in my cycle as well. While there really aren't "rankings" in my field, I accepted an offer to work with one of the most well-known and acclaimed researchers in my field at my dream school. The flip side of that coin was the rejection I received from a small, R2 University. Admissions are a game of research fit and a whole lot of luck. 
+
+## When and How to Narrow Your List
+
+Once again referencing my application timeline section, I recommend starting to narrow your list of potential faculty/programs throughout the summer. 
+
+### How to narrow down
+#### Take a look at your program list and run through the important factors I listed above, plus any other considerations that are important to you.
+If you absolutely hate the location, don't have enough faculty identified, or see any major red flags, consider scrapping the program from your list.
+
+#### Remove any programs where your identified faculty aren't accepting students.
+You should be reaching out to potential advisors over the summer. If it turns out your primary advisor(s) of interest won't be accepting a student, you can take it off your list.
+
+#### Compare the work of your potential advisors to your research question(s).
+You should also be working on sharpening your research area of interest into a specific research question(s) over the summer. Even if your research question(s) isn't completely finalized yet, you should have a better idea of what direction you're heading than you did when you made your list initially. You might find that while a professor's work interested you when you had only a broad idea of what you want to study, it's no longer the best fit now that your intended research topic has become more specific.
+
+## When and How to Finalize Your List
+I highly recommend having a finalized list of your programs by mid-October. If you can get this done sooner, even better!
+
+### How to finalize
+#### Compare the work of your potential advisors to your research question(s).
+By the end of summer you should have your finalized research question(s). Run back through your list of faculty and their work one last time to make sure they would be a good fit for exactly what you intend to research. 
+
+#### Check that the only remaining faculty are confirmed to be accepting a student.
+This one is flexible. It's not always possible to get confirmation from a professor that they will be accepting someone. If you've reached out to a professor, asked a program coordinator, and checked the program website but didn't receive a response from anyone or see a posted list of faculty accepting applications, it's a personal judgement call on whether you want to apply.
+
+#### Do one final check with your important factors.
+Make sure things like cost of living, location, etc. wouldn't be a deal breaker for you with the programs you have left.
+
+#### Ask yourself an important question - would I be thrilled to attend this school?
+At this point you've done your research on the advisors and the details of the program. If you were accepted, is this the kind of institution you'd be ecstatic to spend the next 5-7 years at? If your answer is no, why are you applying there?
 
 
 
