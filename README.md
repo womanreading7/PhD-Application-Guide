@@ -759,3 +759,130 @@ You will most likely be required to submit one of the following:
 #### 1. A letter from the financial aid office at your current University which states somewhere that your Estimated Family Contribution is below a certain amount (determined by the University you are applying to).
 #### 2. Your Student Aid Report, derived from your FAFSA, which shows that your Estimated Family Contribution is below a certain amount (determined by the University you are applying to).
 #### 3. Your most recent Federal Income Tax Return. If you're an independent, this will be your 1040. If you're a dependent, you'll need your caregiver's return. These will need to show an income that is below a certain threshold (determined by the University you are applying to).
+
+# Letters of Recommendation
+Some of the most frequent questions I see pop up from applicants are about letters of recommendation (LORs). This post will address some of these questions and will hopefully give you a better idea of who, how, and when to ask.
+
+## Who to ask for an LOR
+Who to ask for an LOR can vary depending on your level of research experience, level of interaction with faculty, how long you have been out of college, and your field. I wanted to provide examples of people you can consider asking for an LOR regardless of your situation.
+
+### Examples of who you can ask
+#### 1. Faculty you have done research with
+Faculty you have worked with in a lab or on a research project are far and away the best people to ask to write you a letter of recommendation. These faculty can speak to your research capabilities, skills, and dedication based on first-hand experience. 
+
+#### 2. Faculty you have taken a course with
+If you did not do research at all or did not do research with enough faculty to cover the required number of LORs, consider asking a faculty member you took a course with and received a high grade from or a course you are currently taking and doing well in. 
+
+Faculty who taught a course you did more than just show up for class in should get extra consideration. If this was a course where you often went to office hours, had a required research paper or component, or became a TA for, definitely consider asking the professor for an LOR. Even if you graduated quite some time ago or did not have a lot of interaction with a professor, it does not hurt to ask!
+
+### 3. Supervisors in research roles
+If you have worked in a research setting or lab, you can consider asking people such as a lab manager to write you an LOR. Even if this person does not have a PhD, they can give a solid, first-hand description of how you operate in a lab and speak to your attributes.
+
+### 4. Supervisors in the workplace
+If you do not have enough faculty or folks in research roles to cover the required number of LORs, you can consider asking a supervisor from your current or former job that you have a good relationship with. If you go this route, make sure to give them a good description of things to include in an LOR for a PhD program as they may not have ever written an LOR for this purpose. 
+
+## When to Ask for a Letter of Recommendation
+Assuming you have an application deadline of early December, you should reach out to request a letter of recommendation no later than the end of September. You want to make sure you are giving your letter writers plenty of time to complete these and submit. A minimum two month window will also give you time to reach out to back-ups in the event your request for an LOR is denied by someone or extenuating circumstances arise and one of your writers is no longer able to complete this.
+
+## How to ask for an LOR
+How to ask for an LOR can also vary depending on your relationship to the person you are requesting it from. These requests can look a bit different if you are asking your current Principal Investigator (PI) vs a professor from 4 years ago, for example.
+
+### Asking a current PI or research supervisor
+These are the easiest requests to make! If you are currently working in a research setting, your PI or supervisor likely already has information about your research/academic background and an idea of what you want to study in a PhD program. If you regularly see these folks in-person, your best bet is to ask them face-to-face. If you work remotely or are, for whatever reason, against asking these folks in person, you can ask via email. Below is a template for asking for an LOR from a current PI or research supervisor.
+
+*"Hello _____,
+This year I intend to apply to _____ PhD programs to study ______. As someone who has worked closely with me, I am wondering if you would be willing and able to write me a good letter of recommendation for these programs? I am happy to provide you with a comprehensive list of the programs I will be applying to along with the deadlines for these along with any additional materials you may need to write a letter of recommendation."*
+
+### Asking a current course professor
+If this is a faculty member you often see for office hours, consider asking them face-to-face! If you do not have a lot of interaction with this professor, or would prefer to ask them via email, below is a template you can consider using.
+
+*"Hello ______, 
+I have greatly enjoyed taking ______ with you this semester. This year, I intend to apply to ______ PhD programs to study _______. Taking your course has greatly benefitted my knowledge in this field, and I am wondering if you would be willing and able to write me a good letter of recommendation for my PhD applications? I am happy to meet with you during office hours or to set up a meeting to discuss my interests further and give you more information about my background. I can also provide any additional written materials you may need to write a letter of recommendation."
+
+### Asking a former course professor
+If this was a course you took recently, consider using something similar to the template above and changing the details to be in the past tense. If this was a course you took some time ago and are unsure if the professor will remember you, consider using the template below. 
+
+Note: It can be intimidating to reach out to someone you may not have had a lot of contact with or have not seen for a long time, but it does not hurt to ask!
+
+*"Hello _____, 
+My name is ______ and I took your _____ course in _____. I greatly enjoyed your course, and was thrilled to have received a _____ in such a challenging and important course for my field. This year, I intend to apply to ______ PhD programs to study ______ and I am wondering if you would be willing and able to write me a good letter of recommendation for my PhD applications? The following is a bit about my educational and research background to aid you in making your decision (brief description of your major, GPA, research experience, relevant coursework). I have also attached my CV here for your reference. I would be happy to set up a meeting to further discuss my interests any background if needed and provide you with any additional written materials you may need."
+
+### Asking a workplace supervisor
+If you plan to ask someone outside of academia to write you a letter of recommendation, be sure to speak with them about what an LOR for PhD programs should include as they may have never written a letter for this purpose. Again, I recommend asking for this face-to-face if this is a supervisor in your current role. If you need an email template, consider using one like I have below.
+
+*"Hello _____,
+I hope you are doing well! This year I intend to apply to _____ PhD programs, and I am wondering if you would be willing and able to write me a good letter of recommendation for my applications? As someone who has worked with me closely in a professional setting, I am hoping you might be able to speak about my (attributes you'd like to highlight) in a letter of recommendation for these programs. I would be happy to set up a meeting to talk more about my educational background and research interests as well as things you could consider including in this letter. I can also provide you with any additional materials you may need to assist you with this."
+
+## What an LOR Should Include
+At the end of the day, it is up to the people writing your letters to choose what they will include in them. Overall, a good letter of recommendation should include information that gives an admissions committee a solid perspective on your research abilities/contributions, drive, interpersonal skills, intellectual curiosity, and attributes that make you prepared for graduate school. The following are suggestions you can make if you are asked by your letter writer what specific things you'd like to be highlighted.
+
+### Research experience/skills
+#### What your direct contributions were to a lab
+#### Innovative solutions/ideas you brought to a lab
+#### Relevant lab skills (fMRI, coding, specific software, etc.)
+#### Specific examples that demonstrate your passion for research
+#### Specific examples of times you took initiative on projects
+#### Your contributions to published papers
+#### Examples of your success presenting research
+#### Your ability to clearly communicate high-level research ideas
+#### Your ability to effectively manage research protocols
+
+### Interpersonal skills
+#### Your ability to collaborate and work in a team setting
+#### Evidence of your effective communication skills
+#### Your willingness to help others
+#### Your time management skills
+#### Your ability to manage a team
+#### Evidence of your problem solving abilities
+
+### Academic skills
+#### Evidence of your ability to receive high scores in challenging courses
+#### Examples of your high performance on research papers/projects
+#### Examples of your intellectual curiosity 
+#### Examples of your dedication to your education
+#### Examples of your commitment to truly understanding complex material
+
+## What an LOR Writer May Ask from You
+Depending on your relationship with the people writing your letters and their level of comfortability writing your letter, you may be asked to provide different things. The following are examples of some things you might want to consider having prepared to give your LOR writers.
+
+#### CV
+#### List of all programs you will be applying to and their respective deadlines
+#### Description of your academic background
+#### Description of your research interests
+#### Statement about what you intend to do with a PhD
+#### Explanation of why a PhD program is right for you
+#### Draft of SOP/personal statement
+
+## If You're Asked to Write Your Own Letter of Recommendation
+It is unfortunately quite common, especially with faculty, that applicants are asked to write a draft of their own LOR for the writer. If this happens, don't panic. The first thing you want to do is offer to provide the person who asked this of you with additional materials, such as those listed above, that may assist them in writing the letter. 
+
+If your letter writer doubles down on this request and insists you provide them with a draft of the letter, you still have options. 
+
+### 1. Reach out to another potential LOR writer
+If you are adamantly against writing a draft of your LOR, consider reaching out to someone else who may be willing to be a recommender. If you are able to find a replacement, reach out to the original LOR writer to kindly inform them that while you appreciate their willingness to submit an LOR for you, you have decided to ask someone else.
+
+### 2. Ask a close friend or colleague for help
+If you are willing to write a draft of your LOR but find it is uncomfortable for you to "brag" about yourself like this, consider asking a close friend or colleague who is familiar with your academic or research background to assist you. You can ask them to list what skills, attributes, or examples of your successes should be included in an LOR. Ask if they would be okay helping you draft or edit the LOR.
+
+### 3. Go ahead and write the letter on your own
+At the end of the day, your letter writer will still see your draft and have the ultimate say in what should or should not be included. It can be incredibly uncomfortable to be in the position of writing your own LOR, but remember that the final version is in the hands of your recommender. They will have the chance to revise and polish your LOR to make sure it is the best it can be. 
+
+## If Your Request for a Letter of Recommendation is Declined
+It is unfortunate, but you may end up in a position where you have asked someone to write you an LOR and they have declined to do so. Remember that this is not a reflection of your skills or abilities! Most often when someone declines to write an LOR, it is because they feel they do not know enough to speak strongly about your experience and attributes. It is much better to have someone kindly decline to write you a letter of recommendation than for someone to accept and write an incredibly vague and generic letter. 
+
+If your request for an LOR is declined, don't be discouraged! This should not convince you to abandon applying or feel pessimistic about your chances. It's easier said than done, but try to view this as getting one step closer to finding the right LOR writer for you. Continue reaching out to other folks and offer to provide them with as much material about you as you possibly can to increase your chances of them agreeing to write for you.
+
+## If You're Facing a Late LOR
+For a timeline on asking for LORs that will help you avoid any being sent late, see the application timeline section. The unfortunate truth is, however, there is only so much you can do to avoid having a letter be submitted after the deadline. The good news is, the vast majority of schools have a grace period for submitting LORs! Programs understand that, especially with faculty, people get busy and can forget about deadlines. The following are some steps you can take if you feel one of your letters may be submitted late.
+
+### Email the graduate program coordinator to inquire about the LOR grace period.
+As stated above, most programs allow a window of around 5 days after the deadline for recommenders to submit letters. Reach out to the program coordinator a few days prior to the deadline to ask for the final date letters of recommendation can be submitted.
+
+### Consider reaching out to someone who could be a replacement LOR writer.
+If you haven't received a response about your LOR from someone who previously agreed to write for you, it is good to have a potential back-up in place. Try to have this person identified and secure their agreement to submit an LOR for you if needed around 2 weeks prior to the deadline.
+
+### On the day of the application deadline, email the graduate program coordinator to notify them that a letter will be submitted late.
+If the deadline date has arrived and you're still missing a letter, give the program a heads-up that your letter is on its way. There is no need to give a lengthy explanation or send a panicked, frantic email. Simply let them know that there has been a delay, and that the LOR will be submitted as soon as possible. 
+
+
+
