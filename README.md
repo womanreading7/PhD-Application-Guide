@@ -4,6 +4,7 @@ Hi! Welcome to my PhD Application Guide. I hope you find something useful here. 
 
 # About Me and This Guide
 While I'd prefer to try to keep myself anonymous, I do want to at least give you some information about who you might be taking advice from on such an important process.
+
 I was a first-generation undergrad from a very small, rural area of Central Appalachia. I graduated from The Ohio State University in 2019 with majors in Behavioral Neuroscience and Psychology. During undergrad I worked in a psychology lab as a research assistant for two and a half years. I also completed and successfully defended an undergradute research thesis. I was really fortunate to publish this work as a first-author in a journal. I completely fell in love with research as a result of these experiences. After graduating, I took a position as a research assistant in a neuroscience lab an R1 University in another state. There, I worked on studies related to Alzheimer's, sleep, and movement disorders. I published as a part of this lab as well. After two years in that role, I began working in the clinical trials industry in a supervisory role. I stayed in this position for 2 years before resigning in May 2023 to take time off before starting my PhD program. I'll be starting my Psychological Science PhD this fall at a school in the University of California system.
 
 I faced significant challanges in my PhD journey as a first-generation student. You'll find more information about what these were and how I addressed them as you read through these sections. I am also the first person in my entire extended family to ever pursue a PhD. I created this guide in the hopes that people could find useful information that might help them struggle a bit less than I did. 
@@ -1189,12 +1190,30 @@ If you did not speak with anyone in the program prior to your application being 
 At that point, you can be confident that a professor or program director actually knows who you are, has reviewed your application, and may give a meaningful response. 
 
 # Example Statements
-There are tons of example statements you can find online, but I wanted to include a few here as well. Here, I have attached my own redacted statements as well as the statements from a friend who was kind enough to share theirs.
+There are tons of example statements you can find online, but I wanted to include a few here as well. Here, I have attached my own redacted statements as well as the statements from a friend who was kind enough to share theirs. As a note, these are the statements we both submitted to the programs we ultimately accepted offers to attend, and they are among the top programs in our respective fields. 
 
 ## My SOP
 <img width="669" alt="My SOP Page 1" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/831d542c-d00d-40ee-8a00-8361795ead7f">
 <img width="667" alt="My SOP Page 2" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/5d4ff675-6294-4b76-aa48-5138610e86f4">
 <img width="666" alt="My SOP Page 3" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/a54628bc-4708-4437-b225-3d0110c291cc">
+
+## A Friend's SOP
+<img width="666" alt="Friend's SOP Page 1" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/041ae4a3-4b03-4780-b717-04a97d8d7e51">
+<img width="659" alt="Friend's SOP Page 2" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/4bc15651-de16-4d34-a813-fef83027f3a2">
+
+# Example CVs
+There are also a lot of template CVs out there, and I highly recommend looking at the CVs of faculty you are interested in working with. In case you need it, though, I'm including my own CV and the CV of the same friend who shared their statements. 
+
+## My CV
+<img width="666" alt="My CV Example Page 1" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/9316355f-9720-42d8-87af-413f0d626aa5">
+<img width="670" alt="My CV Example Page 2" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/481de03e-4148-44f4-a2fa-656b162823f4">
+<img width="668" alt="My CV Example Page 3" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/54c19bc4-ac73-436e-aa71-01bf5385eaec">
+
+## A Friend's CV
+<img width="670" alt="CV Example Page 1" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/ea634b5c-f74c-4ffb-8442-6536d1738f01">
+<img width="667" alt="CV Example Page 2" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/26d4a0fe-b3b2-450b-9462-9ad48b84a762">
+
+
 
 
 
