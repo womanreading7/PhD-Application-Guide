@@ -616,6 +616,92 @@ After I polished the outine above, I worked this into my SOP like this:
 
 *"My intended area of research strongly aligns with work being conducted by multiple faculty members at the University of _____. Dr. _____ long standing and diverse research regarding _______ is of particular interest to me. The ______ model, pioneered by Dr. ______, has been pivotal to our understanding of _______. I seek to explore how components of this model can be used to elucidate the connection between the autonomic nervous system, sleep, and psychopathology such as anxiety disorders. One focused line of inquiry related to this overall aim is investigating whether differences in _______ may explain the mixed findings regarding the association between sleep quality and trait anxiety. I am also interested in working with Dr. _______ to examine how _______ and the controlling neural structures change across the human lifespan. In this aim, I plan to investigate the ability of older adults to maintain positive affect despite age-related declines in ________ and prefrontal cortex activity."
 
+# A Guide for First-Generation Applicants
+As someone who was raised in a low-income and extremely rural area, the first person in their family to obtain an undergraduate degree, and the first in their entire extended family to pursue a PhD, there were a lot of struggles I faced during undergrad and the PhD application process. A huge part of my application journey was figuring out the best way to address these struggles and turn them into something positive. I firmly believe that first-generation applicants have so much to offer PhD programs and academia as a whole. I hope something in this post can help my fellow first-gens feel the same way!
+
+Note: I feel it's important for me to clearly state that I am in no way saying that applicants who have a parent(s) with undergraduate or advanced degrees have not also faced challenges and do not also offer great things to programs. What I am saying, however, is that whether you are conscious of it or not, having a parent(s) who has completed higher education often offers advantages and opportunities that some people did not have. 
+
+## Identifying Your Unique Perspectives and Attributes
+As I stated above, I believe first-generation applicants have a ton to offer PhD programs and academia in general. The number of PhD students with neither parent having obtained an undergraduate degree continues to fall, with the most recent statistics I can find estimating less than 20% of doctoral students are first-generation (source: NSF). This might seem intimidating, but I think it presents a great opportunity for first-generation students to highlight the unique perspectives and attributes they can bring to a PhD program. 
+
+In this section, I want to give you examples of these perspectives and attributes that I identified in myself related to being first-gen and some tips for identifying your own! In the next section, I'll show you how I used these in my application statements with excerpts. 
+
+### Examples I identified in myself
+#### Ability to actively create opportunities
+My high school was very underfunded, so things like AP courses did not exist. To make sure I was staying challenged in my high school education, I found a way to take courses at the nearest community college. During college, I also found a way to conduct and defend my own undergraduate thesis. 
+
+#### Perseverance
+I struggled academically in the beginning of undergrad due to the lack of educational resources in my hometown and an incident toward the end of my final year of high school that left me with executive functioning impairment. Despite this, I didn't give up on my education. I kept pushing until I found what worked for me and finally started flourishing in my studies.
+
+#### Passion for making research more accessible
+When I started working in research, I found it really bothered me that so much about academia and clinical trials caters to densely populated, predominantly white, middle-class populations. It brought up a lot of residual frustrations I had from growing up in an area without quality healthcare and education. 
+
+To challenge this, I helped create a Diversity, Equity, and Inclusion Research Committee at a large University that connected physicians with underserved populations to foster trust, disseminate health information, and promote inclusion in research.
+
+#### Ability to clearly communicate complex information
+Having grown up in a family where no one had an undergraduate degree or was really interested in science, I had to figure out ways to simplify the things I was studying so I could talk in ways the people I loved could understand what I was doing and what I cared about.
+
+I found this really came in handy when I started working on neuroscience clinical trials and had to explain research forms to participants. People were so intrigued by the science and happier to participate when someone finally spoke to them about it in ways that made sense!
+
+### How to identify your unique perspectives and attributes
+#### Take time to reflect on what challenges you have faced as a first-generation student.
+How did you overcome these? What qualities helped you in overcoming these? 
+What did you learn from these experiences? What qualities did you gain or strengthen?
+How have these things helped prepare you for handling graduate school?
+Keep a list of all these things that you can add to when examples come to mind.
+
+#### Talk to your colleagues, friends, family, or anyone who knows about your background. 
+Sometimes it can be difficult to identify your own amazing qualities. Talk to the people close to you and ask them what they think has helped you succeed in your academic/research career.
+
+#### Write out the story of where you came from, what you've done, and how you got here.
+This one may seem a bit silly, but it actually helped me significantly in identifying the barriers I overcame and how I did it. If you're like me, you might not be able to reflect on your background mentally and think "Hey, that was a unique challenge I faced!" because, well, that was just the reality of life. It never seemed like anything other people may not have had to deal with. I found it really useful to free-write information about my hometown, how I grew up, what my college experience was like, and life post-graduation. Reading this back to myself later helped me pick up on things I would have missed otherwise! This can also help you when writing your personal statement! Having a rough narrative already created can be useful when it comes time to create something more polished.
+
+## How to Incorporate Being a First-Generation Student in Your Application
+The best place to talk about being a first-generation student is in your Personal or Diversity Statement. If a program you're applying to only asks for a Statement of Purpose, you can still weave this in! In this section, I'll show how I incorporated the unique perspectives/attributes I identified in myself (listed above) into my Personal Statement and tips to help you do the same.
+
+### My perspectives and attributes in my personal statement
+#### Ability to actively create opportunities
+*"Despite this deviation from my life plan, I managed to finish high school at the age of sixteen by taking classes at the local community college and become the first person in my family to attend University."*
+
+*"In this lab, I was fascinated by the experience of participating in a much more refined process of testing hypotheses than my own maladroit methods for finding a suitable studying approach had been. It did not take long until I began developing questions of my own, and my relentless curiosity led to conducting my own undergraduate thesis."*
+
+#### Perseverance
+*"Upon beginning my undergraduate classes, I was struck by the realization that my background initially put me at a disadvantage compared to many of my peers. I found that my post-trauma brain no longer retained knowledge as it did before, and that many of my classmates had already learned much of the initial course material in AP classes that I did not have access to at my rural high school. I struggled academically my first year as a result. Rather than succumb to the initial feelings of defeat, I became dedicated to exploring and testing different approaches to help me store the information I needed."*
+
+*"I have also taken away an appreciation for both the triumphs and struggles of research. Obtaining novel findings is no easy feat, and I quickly realized that missteps in the research process are the norm rather than the exception. Now, I am able to reflect on and value how much is learned with every roadblock encountered. It is this ability to find confidence in starting over that has enabled me to succeed academically, professionally, and personally."*
+
+*"Perhaps more important than my scientific knowledge, I am applying as an individual with a deep understanding of how to persist when faced with challenges; a quality imperative to success as a doctoral student. This mindset has fostered my ability to adapt to the ever changing world of research rather than becoming discouraged."*
+
+#### Passion for making research more accessible
+*"Further pursuing this passion for research accessibility, I helped to initiate an employee-led Diversity and Inclusion Committee which was primarily concerned with advocating for engagement of minority populations in research. Through hosting community events to provide information about research, our goal was to establish rapport between physicians and underserved populations. Additionally, I helped to create a Diversity and Inclusion book club to bolster the work of this committee and widen the perspectives of our members."*
+
+*"Among my goals as a doctoral student and future professor is to continue addressing the hurdles that make research inaccessible and advance equity in higher education."*
+
+#### Ability to clearly communicate complex information
+*"Having been raised in an area of central Appalachia with limited educational resources and in a family where I was a first-generation college student, I discovered I was able to provide a unique perspective to improve health literacy for patients. Pulling from my own experiences, I quickly learned how to translate the heavy scientific jargon found in the research forms into content participants could easily understand. I found that patients were much more comfortable and enthusiastic about participating in research when they were able to grasp the science behind these protocols."*
+
+### How to include your perspectives and attributes in your statement
+#### The biggest piece of advice I have for this it to be prepared to write, then re-write, and re-write, and re-write it again. 
+Your first few drafts are likely going to be rough, and potentially a little more personal than you will ultimately want them to be. That's okay! 
+
+#### Weave these qualities into a coherent story and tie them to concrete examples.
+What you do not want to do in your statement is list your attributes with no context or without including examples to back them up. Think of your attributes as needing citations, include your proof!
+
+#### Every challenge you include should give an admissions committee a reason to believe you will succeed in graduate school.
+Talking about the hardships you've faced as a first-generation student is encouraged, however, the point of talking about them isn't to make an admissions committee feel sorry for you. The point of including these is to show them that no matter what you've faced, you have overcome and grown in some way that has prepared you for the PhD journey. 
+
+#### The body paragraphs are the best place to give detail about the challenges you've overcome and what you learned.
+
+#### In your closing paragraph, summarize what you've taken away from your struggles and how these have only made you a stronger PhD applicant. 
+
+
+
+
+
+
+
+
+
 
 
 
