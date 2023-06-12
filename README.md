@@ -884,5 +884,75 @@ If you haven't received a response about your LOR from someone who previously ag
 ### On the day of the application deadline, email the graduate program coordinator to notify them that a letter will be submitted late.
 If the deadline date has arrived and you're still missing a letter, give the program a heads-up that your letter is on its way. There is no need to give a lengthy explanation or send a panicked, frantic email. Simply let them know that there has been a delay, and that the LOR will be submitted as soon as possible. 
 
+# A Guide to Interviews
+Let's not deny it, interviews can be intimidating! Whether your interviews are in-person or remote, I hope something in this post can help you feel a little more prepared and confident!
 
+## Interview Attire and Alleviating Associated Costs
+A lot of applicants are unsure about what to wear to interviews, especially when factors like cold weather might be at play. Here, I want to talk about what is typically appropriate to wear to interviews. I'll also discuss some resources for folks who may not already own this type of attire and are concerned about the cost of purchasing clothing.
 
+In general, business casual is typically appropriate to wear to an interview. If you are wondering....yes, even if your interview is remote you should still dress business casual.
+
+### If you are traveling somewhere you know it will be cold/snowy for your interview:
+Consider dressing in layers. You will likely be walking outside at some point and will require a coat or thick sweater, but you will also be spending a great deal of time inside where it might be significantly warmer.
+Consider sturdier footwear like ankle boots. It's perfectly acceptable to sacrifice a bit of fashion for shoes that will help ensure you don't slip or suffer from freezing feet all day!
+
+### Appropriate attire for those identifying as a woman
+Examples of business casual clothing for folks identifying as a woman can include:
+
+Tops - blouse, sweater, dress, or button down which can be optionally paired with a blazer
+
+Bottoms - dress pants, long skirt, or jeans. Note for jeans: No holes and preferably dark wash. Typically only appropriate if you are leaning more formal with your choice of top (like a blouse and blazer) and shoes.
+
+Shoes - flats, small heels, or booties
+
+### Appropriate attire for those identifying as a man
+Examples of business casual clothing for folks identifying as a man can include:
+
+Tops - Button down, sweater, or polo which can optionally be paired with a sport or suit jacket
+
+Bottoms - dress pants, khakis, or jeans. Note for jeans: No holes and preferably dark wash. Typically only appropriate if you are leaning more formal with your choice of top (like a button down and blazer) and shoes.
+
+Shoes - dress shoes or sneakers. Note for sneakers: Only wear these if they have a dress shoe adjacent look. 
+
+### Appropriate attire for those identifying as non-binary
+Feel free to mix and match any of the clothing items mentioned above to build an outfit that is most comfortable and authentic for you! It's easier said than done, but don't feel pressured to conform to wearing an outfit that others might expect based on their perceived idea of your identity. Any program that doesn't accept the authentic version of you is not the program you belong in!
+
+### Alleviating costs of clothing
+If you do not already own business casual attire and are concerned about the cost of purchasing an interview appropriate outfit, consider some of these options:
+
+#### Community outreach organizations
+It is not uncommon for cities or even larger towns to have organizations that provide low to no cost professional attire for students and job seekers. Try a quick google search to see if any of these organizations exist near you!
+
+#### Thrift stores
+I've found that some thrift stores have a pleasantly surprising assortment of professional attire. This is especially true for stores like Deja Blue, which is owned by Goodwill and carries slightly more upscale pieces. 
+
+#### Borrowing
+If you have a friend or family member with a similar clothing size and fashion sense, ask if they have clothing you can borrow.
+
+## Traveling for Interviews and Alleviating Associated Costs
+Traveling for interviews can be exciting! Getting to meet faculty and graduate students face to face and seeing the campus firsthand can help you get a better feel for a program than remote interviews. Here are some things to keep in mind about traveling for interviews and potential costs.
+
+### Flights and lodging
+#### Some programs will let you book your own flight and others will book it for you. 
+Either way, always try to arrive in the afternoon/early evening the day before your interview.
+
+#### Whenever possible, try to get a direct flight. 
+This isn't always possible due to cost or location, but if it is you'll reduce the risk of a flight delay or cancellation that might cause you to be behind schedule.
+
+#### Depending on the program, you'll be staying in a hotel (most likely sharing a room with a other interviewee) or staying with a current graduate student(s). 
+Regardless, remember to be courteous! You never know what might get back to graduate students or faculty, so keep in mind that even in the privacy of a hotel or graduate student's place you need to be respectful. 
+
+### Alleviating cost of travel
+Any worthwhile program will completely cover the cost of your flight and lodging for interviews. 
+
+#### If a program informs you that you are responsible for covering all of the travel costs yourself, I would strongly consider rejecting the invitation to interview.
+This is just my opinion, and other folks might feel differently. As someone from a low income background, I find it extremely inconsiderate and elitist for a program to expect anyone to fully cover their own travel costs.
+
+#### Programs that do pay for your travel may do so by (1) covering the cost up front or (2) reimbursing you 
+If the program covers the cost of your travel up front, that's great! Your only concern will be paying for meals you eat outside of your interview events.
+
+If the program reimburses you for the cost of travel and you are worried about having the funds to cover this, even temporarily, consider doing the following:
+##### Reach out to the program coordinator or person who invited you to the interview and let them know that you have a concern about the cost.
+##### Ask if it is at all possible for the program to cover your travel costs up front rather than reimbursing you.
+##### It's important to note that you should only request this if you are absolutely certain you will attend the interview if your request is accepted. You don't want to ask this of a program then change your mind about going for some reason.
+##### If this request is rejected, I would consider rejecting the invitation to interview. This is especially true if a program waits until after interviews are over to reimburse you. Again, this is just my opinion, but I find this extremely inconsiderate to low-income applicants. 
