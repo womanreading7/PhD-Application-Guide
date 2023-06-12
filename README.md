@@ -1114,45 +1114,79 @@ Questions you'll be asked during interviews will, of course, vary depending on y
 ### How did your interest in your chosen field develop?
 ### Is your research interdisciplinary? Who in the department do you see yourself collaborating with if so?
 
+# Dealing With Rejections
+There's no denying it, rejections can be hurtful. It's not a great feeling when you have put so much time, effort, and care into your application just for the end result to be a "no thank you" from a program. It's something that almost every single applicant will have to deal with, so I wanted to talk a bit about how to bounce back from rejections.
 
+## Not Taking Rejections Personally
+You'll notice in this post that I always say *your application was rejected*, not that *you* were rejected. That's because it's true. Although rejections can feel incredibly personal, the fact is there is so much about you that cannot possibly fit into an application packet. You are a whole, worthy, valued person beyond what an admissions committee can see on a few pieces of paper. There are a myriad of reasons why your application may have been rejected, and many of them have absolutely nothing to do with your qualifications or statements. If you are facing rejections, keep your head up!
 
+### Tips for staying positive
+#### Keep in mind your application is a small snapshot of who you are. 
+An admissions committee cannot possibly know enough about you to reject you as a person.
 
+#### Almost every single applicant will deal with rejection in their cycle. 
+You are not alone in how you're feeling. Thousands of other people, including me, have had the same experience. 
 
+#### Remember that sometimes rejections can be for the best. 
+Maybe the faculty you applied to work with are planning to take their research in an entirely different direction, and your interest wouldn't fit in their lab anymore. 
 
+#### Rejection doesn't mean you aren't capable of doing research.
+An admissions committee cannot determine that you absolutely do not have what it takes to do research from an application packet.
 
+## Why Your Application May Have Been Rejected
+I've said it before and I'll say it again, PhD admissions often have a lot to do with luck. Many times rejections have nothing to do with how qualified an applicant is, it just turned out to be an unlucky cycle. Below are some common reasons an application is rejected.
 
+### 1. Faculty did not get priority on choosing a student.
+This isn't always the case, but at many Universities faculty will be "ranked" in order of priority for getting to choose a student. This means that even though a faculty member says that they will be considering accepting a student this cycle, if they are low on the priority list and the faculty ranked above them all want to choose a student, there may not be enough slots for this faculty member to end up admitting someone. This means as much as they may have liked your application, they had no choice but to reject it.
 
+### 2. Faculty did not end up getting funding to admit someone.
+Sometimes faculty are told that they will receive enough funding to admit a student, but this funding ends up falling through. Anecdotally, this is what happened to me with a program. I interviewed for a program and received a call from my potential advisor about a week later. She told me that I got outstanding remarks from my interviews and I would be a perfect fit for her lab, however, the department pulled some of her funding at the last minute and therefore she could not admit me. I'll be honest, this was devastating to me at first. I was so frustrated that I had done everything right and it still ended in a rejection. 
+However, this experience really helped put PhD admissions into perspective for me. It wasn't until this happened that I truly realized that rejections can have absolutely nothing to do with the applicant. 
 
+### 3. Your research interest wasn't the best match.
+No matter how hard you might have tried to make sure your research interest aligned with faculty, it is very difficult to know what they might be planning in the future. The papers you read that they've published in the last 5 years may not be reflective of the work they plan to do in the next 5 years. It's also entirely possible that they already have a graduate student doing the type of work you proposed, and they are looking for someone who plans to take a different approach. 
 
+### 4. Your research interest wasn't specific enough.
+If you proposed a very broad research area of interest in your statement, it may not have been enough to convince a faculty member that you know exactly what you want to study in a PhD program. 
 
+### 5. Lack of research experience.
+An admissions committee wants to see proof that you can do research, and the best way to show that is by having research experience already. If you didn't do much research in undergrad, consider gaining more experience in by working in roles like a research assistant, research coordinator, or lab manager. 
 
+### 6. Faculty already had a candidate in mind.
+Unfortunately, it's not all that uncommon for faculty to have a good idea of who they will accept before your application has even been reviewed. They might have a current research assistant, lab manager, or student that has let them know they plan to apply to work with them on a PhD. Faculty can be risk-averse, which makes sense when you consider they are committing to training someone for the next 5-7 years. They may prefer to admit someone they worked with or currently work with over an applicant they don't know. 
 
+### 7. Your statements weren't tailored to the program.
+In my opinion, this is truly the only way a rejection can be considered the fault of an applicant. Every statement you write should be unique to that program and should show you've done your homework about the program and faculty.
 
+## If All of Your Applications are Rejected
+If you find yourself in the position of having received only rejections from programs, it can be difficult to figure out where to go from there. Below, I want to talk about next steps.
 
+### Tips for next steps
+#### First and foremost, take some time to decompress and put the application process out of your mind. 
+Odds are that you've spent a significant amount of time over the last several months fully immersed in your applications. For the sake of your mental health, take at least a few weeks to do things you enjoy and do your best not to think about your applications. 
 
+#### Review your statements to see if you can identify weak spots, mistakes, or points for improvement. 
+Once you feel ready to dive back in, start by reading your statements to see if any obvious mistakes or ways to improve jump out at you. You can also ask your letter of recommendation writers, professors, or someone else to read your statements and give you feedback. 
 
+#### Consider ways to get more research experience.
+If you think a lack of research experience could have been a major factor in your application being rejected, look into ways you can address this. Jobs like research assistants, research coordinators, and lab managers are excellent ways to get further research experience. If you can't pursue a job like those listed above for whatever reason, consider looking into part-time volunteer research positions.
 
+#### Consider revising your proposed research question(s).  
+If you think your proposed line of research may have been the weak spot in your application, you have plenty of time to alter it before the next cycle!
+Maybe your research question(s) wasn't specific enough, or maybe it was overly specific and came off as inflexible. Either way, there's no shame in going back to the drawing board and coming up with some new ideas. 
 
+## Asking Why Your Application Was Rejected
+A lot of applicants wonder if it would be worthwhile to reach out and ask a program for feedback as to why their application was rejected. While it's not necessarily inappropriate to do this, there are some things to consider before you do it.
 
+### Before asking for feedback
+#### Be prepared to either not receive a response or to be told no.
+The fact is, programs receive far too many applications to give a reason for each one they rejected. If they make an exception for one student, it sets a precedent that could end up costing them a ton of time.
 
+#### Consider how much contact you've had with the program.
+If you did not speak with anyone in the program prior to your application being rejected, it's probably not worthwhile to ask for feedback. This is especially true if you wanted to email a professor specifically to ask for rationale on the rejection. Please don't do this unless you were in touch with that professor during the application process. Even then, be prepared to not get feedback.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### In my personal opinion, asking for feedback about your rejected application is really only worthwhile if you interviewed for a program. 
+At that point, you can be confident that a professor or program director actually knows who you are, has reviewed your application, and may give a meaningful response. 
 
 
 
