@@ -1,6 +1,6 @@
 # PhD Application Guide
 
-Hi! Welcome to my PhD Application Guide. I hope you find something useful here. If you have suggestions for improvements or sections that should be added, feel free to email me at phd.unknown7@gmail.com
+Hi! Welcome to my PhD Application Guide. I hope you find something useful here. If you have suggestions for improvements or sections that should be added, feel free to email me at phd.unknown7@gmail.com 
 
 # About Me and This Guide
 While I'd prefer to try to keep myself anonymous, I do want to at least give you some information about who you might be taking advice from on such an important process.
