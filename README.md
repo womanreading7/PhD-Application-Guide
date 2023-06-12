@@ -1188,6 +1188,13 @@ If you did not speak with anyone in the program prior to your application being 
 #### In my personal opinion, asking for feedback about your rejected application is really only worthwhile if you interviewed for a program. 
 At that point, you can be confident that a professor or program director actually knows who you are, has reviewed your application, and may give a meaningful response. 
 
+# Example Statements
+There are tons of example statements you can find online, but I wanted to include a few here as well. Here, I have attached my own redacted statements as well as the statements from a friend who was kind enough to share theirs.
+
+## My SOP
+<img width="669" alt="My SOP Page 1" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/831d542c-d00d-40ee-8a00-8361795ead7f">
+<img width="667" alt="My SOP Page 2" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/5d4ff675-6294-4b76-aa48-5138610e86f4">
+<img width="666" alt="My SOP Page 3" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/a54628bc-4708-4437-b225-3d0110c291cc">
 
 
 
