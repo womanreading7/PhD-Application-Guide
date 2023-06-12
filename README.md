@@ -1,4 +1,4 @@
-# PhD-Application-Guide
+# PhD Application Guide
 
 Hi! Welcome to my PhD Application Guide. I hope you find something useful here. If you have suggestions for improvements or sections that should be added, feel free to email me at phd.unknown7@gmail.com
 
@@ -956,3 +956,204 @@ If the program reimburses you for the cost of travel and you are worried about h
 ##### Ask if it is at all possible for the program to cover your travel costs up front rather than reimbursing you.
 ##### It's important to note that you should only request this if you are absolutely certain you will attend the interview if your request is accepted. You don't want to ask this of a program then change your mind about going for some reason.
 ##### If this request is rejected, I would consider rejecting the invitation to interview. This is especially true if a program waits until after interviews are over to reimburse you. Again, this is just my opinion, but I find this extremely inconsiderate to low-income applicants. 
+
+## Avoiding Remote Interview Technical Issues
+Remote interviews have their perks, like getting to go through the process in a familiar setting and knowing you have everything you need within reach. One drawback is the potential for technical issues, which happen more often than we want them to. Here are some of my tips for doing your part to ensure your remote interview goes smoothly!
+
+### Setting and background
+#### Make sure wherever you choose to do your interview is quiet and private. 
+You want to reduce the possibility of unwanted background noise or anyone walking in on you as much as possible.
+
+#### Make sure there is nothing in your camera frame that you wouldn't want someone to see. 
+Set up your computer wherever you plan to do the interview and open your camera. Make sure that there is nothing embarrassing or inappropriate in the frame.
+
+#### It's perfectly okay to use a computer generated background like those offered on Zoom.
+If you do want to use this, make sure you have one picked out and that you know how to turn it on prior to the start of your interview. Make sure you are choosing a background that isn't distracting. You want the focus to be on you, not whatever is behind you.
+
+### Handling unexpected issues
+#### If you encounter an unexpected technical issue during your interview, don't panic!
+Unfortunately, things do happen. Programs hosting remote interviews know that sometimes things go wrong, even if you made sure everything was in working order beforehand.
+
+#### Many programs will have a plan in place for helping interviewees with technical issues.
+They may provide you with a link to a separate chat students can use to notify them of problems. Alternatively, they might give you an email address of who to contact if you have any problems. If you don't see anything mentioned about this in the materials you're given prior to the interview, don't be afraid to reach out and ask who to contact if you encounter an issue!
+
+## What to Bring to Interviews or Have Handy
+Ensuring you have everything you need available to you for interviews can help reduce at least a little of the stress they bring. Here's a checklist of things you can consider taking with you or having readily available!
+
+### In-person interview checklist
+#### Clothes (of course)
+2 business casual outfits if you have them, to be on the safe side. 1 outfit for dinner/mixer. Comfortable travel/lesire attire.
+
+#### Notebook
+#### Any notes/questions you already have about the program
+#### Pad folio/folder
+#### Pens
+#### Multiple copies of your CV
+#### Backpack or professional bag
+#### Water bottle
+
+### Remote interview checklist
+#### Notebook
+#### Pens
+#### Any notes/questions you already have about the program
+#### Copy of your CV
+#### Water
+
+## Interacting with Faculty and Graduate Students
+Making a good impression on faculty is, obviously, important. Something to keep in mind is that it's equally important to make a good impression on the current graduate students in the program! These are folks you will potentially be working alongside for years, and they do give feedback to faculty about how you conduct yourself.
+
+### Tips for interacting/interviewing with faculty
+#### Ask every faculty member you interview with questions about their work, even if they are not your potential advisor.
+The last thing you want to do in an interview is have a faculty member ask "Do you have any questions for me?" only to have you answer "Nope." You will receive a list of the faculty you are interviewing with prior to interview day(s). Do a quick Google Scholar search on them and take notes on some of the topics they are currently working on. There's no need to go in depth, you just want to have a general idea of what they study. This will at least show them that you care enough to do a bit of research on who you are speaking with!
+
+#### Ask every faculty member questions about the program, even if you are repeating questions you have already asked other faculty.
+There's no need to have a gigantic list of questions about the program because you do not want to repeat any. In fact, I made a conscious effort to ask a few of the same questions to several faculty in my interviews to compare their answers and see if they were consistent.
+
+#### Make sure you are extra prepared for interviews with potential advisors.
+You have probably already done a pretty extensive amount of research on these faculty since you wrote about them in your SOP. Once you have landed an interview with them, it's time to go even further. You want to be able to talk in detail about work they have done recently or are currently doing and exactly how this aligns with your interest. These interviews are also a great time to talk about the ideas you have for projects you'd like to start in their lab and how it fits with what they are doing or have done. Personally, I read many of the papers all my potential advisors had published within the last 5-7 years and took extensive notes on ones that aligned with my interests so I could ask questions about them.
+
+#### Remember that faculty are people too, just like you!
+It can be incredibly intimidating to talk 1:1 with people who are so accomplished and experts in their fields. At the end of the day, though, every single one of these folks were in your shoes once! Take time to center yourself before your interviews and remind yourself that they are human, and that you have already impressed them enough to land an interview.
+
+### Tips for interacting/interviewing with graduate students
+#### Do NOT mistake graduate students for your friends.
+Whether it's 1:1 during an interview, in a graduate student panel, or at a dinner/mixer, you will be given the opportunity to interact with current students.
+While these interactions tend to be a bit more relaxed than those with faculty, remember you are being evaluated at all times. Do not ask graduate students overly personal questions or disclose anything to them that you would not want a faulty member to know.
+
+#### Depending on how the program runs their interviews, you may be interviewing 1:1 with graduate students.
+This is a great opportunity to ask what their experience in the program has been like! It's perfectly okay to ask graduate students how they feel about the location of the University, if they find the program stipend to be comfortable, if they feel supported in the program, etc.
+
+## Identifying Program/Faculty Red Flags
+While it's true that you are being heavily evaluated during interviews, you are also evaluating the program! You want to make sure that the program is the right fit for you, which means looking out for potential red flags or things that might make you skeptical.
+
+### Examples of potential red flags and questions to ask yourself
+#### Do the graduate students seem happy and enthusiastic to be talking about the program?
+In my opinion, the best way to tell if a program has a healthy and supportive environment is to pay attention to the demeanor of the graduate students. 
+
+Things to look out for that show students may not be happy in a program:
+##### They give bare minimum, unenthusiastic answers to your questions about the program.
+##### They seem reluctant to share their experience in the program.
+##### They can't think of many resources the program provides to help students.
+##### They give the impression of being disheartened.
+
+#### Do the faculty seem to be engaged with you during and outside of interviews?
+While it's not necessarily a red flag if faculty who aren't your potential advisor aren't showing a strong interest in you, it's still good to note if faculty seem especially detached in your interactions.
+
+Things to look out for that show faculty may not be supportive or engaged:
+##### You have to repeat yourself quite often because they are not listening.
+##### In a remote interview, you notice they are often looking at a different screen and it is apparent this isn't to look at your CV/application packet.
+##### It is clear in an interview they know absolutely nothing about you. Faculty are busy, and likely do not have time to extensively review the application of every interviewee. However, they should at least have a broad idea about your background.
+
+#### Does the program seem organized?
+While this might not seem like a huge deal, it is still important to consider if a program seems to have a good handle on the administrative aspects.
+
+Things to look out for that show a program may be unorganized:
+##### They have double-booked faculty/grad students for interviews several different times.
+##### Faculty have no-showed because they were not notified of the interview.
+##### There are consistent issues with interviewees being able to access their remote interviews due to incorrect links/passwords being provided.
+##### There is an obvious lack of effort put into the interview materials. Whether your interview is remote or in person, you should be provided with quality materials about the program in general, graduate student resources, and housing at the minimum.
+
+## Questions to Ask General Faculty
+As I stated above, you do not want to be in a situation with faculty where you say you do not have any questions for them. This shows a lack of care and curiosity on your part. The following are questions you can consider asking faculty who may not be your potential advisor about the program.
+### What professional development services are offered to graduate students?
+### Are students provided with funding to attend conferences by the department or is this provided by individual labs?
+### Can you describe what milestones this program requires be met prior to defending?
+### What are the career outcomes like for students who graduate from this program?
+### Are students required to TA and, if so, what is the specified time commitment for this?
+### Are students required to teach their own course at any point in the program?
+### What do you consider the greatest strength of this program?
+### Is it common for students to collaborate on projects with other faculty?
+### How much freedom are students given in choosing their courses?
+### What percentage of students pass qualifying exams?
+### What is the biggest strength of this program in preparing students for a life in academia?
+### What kind of outreach or mentoring programs are students able to participate in?
+### What qualities make a student successful in this program?
+
+## Questions to Ask Potential Advisors
+In addition to asking questions about your potential advisor's research, you should also be trying to get a sense of what they expect from their students and what it is like to work in their lab. Asking some of the following can help you do just that!
+### Are students in your lab able to create their own projects, or are they typically assigned to ongoing projects?
+### How often do students in your lab publish?
+### What do students from your lab typically do after graduating?
+### Do you allow your students to collaborate on projects in other labs?
+### What qualities make students in your lab successful?
+### What big picture goal will your lab be working toward over the next 5 years?
+### How often are lab meetings held?
+### Does your lab have a lab manager or research assistants?
+### Are your students expected to be working in the lab, or is working from home/elsewhere on campus acceptable?
+### How often do your students get to attend conferences?
+
+## Questions to Ask Current Grad Students
+As I stated above, I believe one of the best indicators of whether a program is supportive is how the current graduate students answer your questions. Asking some of the following can help you get a better sense of how students feel about the program.
+### Is there enough flexibility in choosing courses to tailor your classes to fit your specific interests?
+### Have you found the TA requirements to be reasonable to balance with your coursework and research?
+### What kind of professional development resources does the program offer graduate students?
+### Is your research project what you thought you'd be working on when you started the program?
+### Do you feel you've been given the freedom and support to pursue your own ideas in your lab?
+### Is it common for graduate students to get to collaborate with faculty outside of their main lab?
+### Do you feel the stipend is comfortable enough to live in the area?
+### How often do you get to attend conferences?
+### Do you feel the the program is inclusive? What DEI resources are available to students?
+### What were the main factors that led you to choosing this program over others?
+### What is the area around campus like? Have you enjoyed living in this area?
+### Do you have any tips for maintaining a successful relationship with your advisor?
+
+## Questions You May Be Asked
+Questions you'll be asked during interviews will, of course, vary depending on your field and how technical or in-depth your interviewer wants to be. The following are some general questions you might be asked.
+### Can you give an overview of your previous research experience?
+### What are your more significant research accomplishments?
+### Can you talk about any challenges you encountered in your research and how you overcame these?
+### How do you handle setbacks in your research? 
+### How has your research experience prepared you for graduate school?
+### What qualities do you possess that will help you succeed in a graduate program?
+### Why are you drawn to this program specifically?
+### Why do you think you would be a good fit in this program or with your potential advisor?
+### What do you want to do after obtaining your PhD?
+### What do you think you can contribute to this program/lab?
+### Why does my work or the work of your potential advisor interest you?
+### What projects do you see yourself working on in this lab?
+### How did your interest in your chosen field develop?
+### Is your research interdisciplinary? Who in the department do you see yourself collaborating with if so?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
