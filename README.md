@@ -466,3 +466,79 @@ Often times, program coordinators will be aware of which faculty are and are not
 
 ### Check the program and faculty websites regularly. 
 It is common for programs to post a list of which faculty will be considering accepting students or for faculty to update their departmental page/lab website to include whether they are accepting students. Be sure to check these sites regularly to help determine where you want to apply if you haven't received a response from or about your potential advisors.
+
+# Addressing Red Flags/Weak Spots 
+If you're someone who considers there to be "red flags" or weak spots in your application materials like I was, addressing these can be nerve wracking. Here, I want to share some things you might find helpful in figuring out how to talk about these and shifting your thinking.
+
+Note: This post is in no way intended to make anyone self-conscious or worried about an aspect of their application they may not be concerned about or consider a weakness! My only intention is to discuss common concerns I have seen from applicants in a constructive manner. 
+
+## Common Red Flags/Weak Spots
+Chances are that you are already aware of anything in your application materials that might raise an alarm to an admissions committee. I wanted to mention a few examples in this post to give you some concrete ideas of how you can address things like these. 
+
+### Common areas of concern from applications:
+#### 1. Low GPA
+#### 2. Lack of research experience
+#### 3. Gaps in education
+
+I firmly believe that these concerns, and any others, can be overlooked by an admissions committee if you have a good research fit and address these the right way in your application. 
+
+## Where to Address These
+The best place to address potential concerns is in the personal statement. If you are not asked to provide a personal statement, these can be discussed in the statement of purpose instead. Using a small portion of your statement to confront these points directly is a much better option than shying away from them and hoping an admissions committee doesn't notice!
+
+Alternatively, log into your application portal and take a look to see if there are any additional places where things like these can be addressed. Some applications, but not all, will include a text box under a prompt such as "Is there any additional information relevant to your application you wish to include?" 
+
+If your statement has a very limited word count or you just can't figure out how to discuss potential concerns in a way that flows within the statement, text boxes like these can be utilized instead.
+
+## How to Address These
+First, I want to discuss some general advice for addressing perceived weak spots. Next, I'll give some ideas about how you can explain and spin the red flags mentioned above.
+
+### General advice
+#### Addressing weak spots should not become the central point of your statement.
+You want the focus of your statement to be your achievements, not the things that scare you about your application!
+
+#### Don't make excuses or throw a pity party.
+I don't intend for this to sound callous or dismissive at all. You might have faced significant hardships that led to these weak spots arising. My point here is that you don't want to drag out your explanation by going on and on about how nothing was your fault and the admissions committee should feel sorry for you. Take responsibility and give a brief rationale, then move on.
+
+#### Every weak spot you mention should also have a positive spin or lesson learned.
+Giving a list of what your weak spots are with nothing else isn't going to do you any good. You want to show an admissions committee that because of these things, you learned or grew in some way.
+
+### Examples of positive spin
+#### 1. Low GPA
+If you're concerned that your GPA is below the norm for admitted students or you had a particularly bad semester you want to address, consider if any of these points might apply to you or give you any ideas for spin.
+##### You struggled early in undergrad, but your GPA shows a clear upward trend in later semesters.
+##### You had to work throughout undergrad and found it difficult to balance this with coursework, but from this you learned valuable time management skills and perseverance.
+##### You started undergrad with a different major that wasn't right for you, and once you switched majors you saw improvement in your engagement and grades.
+##### You were dealing with personal or family issues for a period of time, but this allowed you to become resilient and confident in your ability to persist in your academic endeavors.
+
+#### 2. Lack of research experience
+If you're concerned that you have less research experience than other applicants, consider if any of these points might apply to you or give you ideas for spin.
+##### COVID-19 restrictions impacted your ability to join a research lab, but you completed research papers or research projects for classes that you received great scores for.
+##### You had to work throughout undergrad and could not take an unpaid research position, but you completed research papers or research projects for classes that you received great scores for.
+##### You attended a small University that had extremely limited undergraduate research positions, but you were in close contact with faculty and took part in other research related activities.
+
+#### 3. Gaps in education
+If you're concerned that you had to pause your undergraduate education and resume it later or that you have taken an abnormally long time after undergrad to apply for a PhD, consider if any of these points might apply to you or give you ideas for spin.
+##### You were dealing with personal or family issues for a period of time, but this allowed you to become resilient and confident in your ability to persist in your academic endeavors.
+##### You took many years after undergrad to work before applying to a program, and during this time you learned valuable professional skills and confidence that a PhD is what you truly want.
+##### You were facing financial difficulty that led to a forced break during undergrad, and this demonstrates your commitment to your education.
+
+## Staying Positive
+Personally, I dealt with the weak spot of having a below average GPA due to difficulties I faced during my first year and a half of college. One of my biggest fears at the beginning of this process was that my application would be thrown in the trash based on my GPA before anyone even looked at the rest of my packet. 
+
+Please trust that applications are reviewed more holistically than you might think! I've had the chance to connect with faculty and graduate students who have helped with the admissions process, and I've found that any worthwhile program will not toss out your application based on one red flag they caught a glimpse of. If you've provided all of the required application materials, you will be evaluated fairly. 
+
+Keep your focus on the ways you've learned and grown from the challenges you've faced. Know and believe that struggling at times does not mean you are unprepared or unworthy of being accepted to a PhD program. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
