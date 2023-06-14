@@ -93,7 +93,7 @@ It isn't a must that you have your absolutely finalized list of programs yet, bu
 #### What faculty do you want to work with?
 #### Why do these faculty align with your research question(s)?
 
-### 4. Complete a first full fradt of your SOP and personal statements
+### 4. Complete a first full draft of your SOP and personal statements
 Let's face it. If you're anything like me, your first drafts are going to be.....rough. You want to leave yourself plenty of time to edit these, and even be able to take a break from working on them if it's getting overwhelming. These statements are often frustrating and draining to write. If you have a full first draft by the end of summer, you're in great shape to take a week or two away from them. 
 
 Using the one program you know you'll apply to in your first draft will give you a template to work off of for all your other programs. Personally, I did my first draft SOP using my top choice program. This allowed me to make sure it was the program I put the most effort toward in my application. 
