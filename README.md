@@ -1201,6 +1201,13 @@ There are tons of example statements you can find online, but I wanted to includ
 <img width="666" alt="Friend's SOP Page 1" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/041ae4a3-4b03-4780-b717-04a97d8d7e51">
 <img width="659" alt="Friend's SOP Page 2" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/4bc15651-de16-4d34-a813-fef83027f3a2">
 
+## My Personal Statement
+<img width="662" alt="My PS Page 1" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/7c689ff2-6dce-4479-87de-3fa459a73472">
+<img width="657" alt="My PS Page 2" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/99961218-b4fc-4f21-b8fc-95f90c8f01bc">
+
+## A Friend's Diversity Statement
+<img width="650" alt="Diversity Statement Example" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/49a1dce8-7a98-4f4d-845c-a76e860bbeed">
+
 # Example CVs
 There are also a lot of template CVs out there, and I highly recommend looking at the CVs of faculty you are interested in working with. In case you need it, though, I'm including my own CV and the CV of the same friend who shared their statements. 
 
