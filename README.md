@@ -199,9 +199,9 @@ You should be answering this by talking about what faculty you want to work with
 You should be answering this by talking about what goals this program will help you achieve or values they might have that align with yours.
 
 ## What Should the Statement of Purpose Include?
-The table above should give you a bit of an idea of what should be included in your statement. A resource I highly recommend is the Write Ivy SOP starter kit by Jordon Dotson. This gives a great outline for getting started on your statement. 
+The table above should give you a bit of an idea of what should be included in your statement. A resource I highly recommend is the Write Ivy SOP starter kit by Jordan Dotson. This gives a great outline for getting started on your statement. 
 
-Personally, I deviated just a bit from Jordon's outline for my finalized SOP. Below is the outline I used along with excerpts from my own SOP. 
+Personally, I deviated just a bit from Jordan's outline for my finalized SOP. Below is the outline I used along with excerpts from my own SOP. 
 
 Note: My area of research is quite niche, so in an effort to not reveal my identity, some of the specifics in my statement excerpts have been redacted. I sincerely apologize if this makes anything hard to follow!
 
@@ -545,7 +545,7 @@ Who do you think has a better idea of what they want to study? Who do you think 
 (P.S. to all my computer science/machine learning people out there....I tried my best, okay? I'm sorry if that actually made no sense...I am just a humble psychology student.)
 
 ## How to Formulate Your Research Question(s)
-Formulating your research question(s) can look different depending on how specific of an idea you already have on what you intend to study. If you're finding you're still stuck on a very broad idea, Jordon Dotson from WriteIvy has an effective formula to help you out! I highly encourage you to check out his site and get his PhD SOP Starter Kit, which goes into much more detail and provides an example. 
+Formulating your research question(s) can look different depending on how specific of an idea you already have on what you intend to study. If you're finding you're still stuck on a very broad idea, Jordan Dotson from WriteIvy has an effective formula to help you out! I highly encourage you to check out his site and get his PhD SOP Starter Kit, which goes into much more detail and provides an example. 
 
 ### His formula goes like this:
 #### a) State your academic field
