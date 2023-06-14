@@ -293,7 +293,7 @@ The goal with tailoring your statements for each program is to make it clear you
 #### Does the program offer a lot of freedom in choosing coursework that you feel would benefit you?
 #### Is there special equipment found in the department or within a lab that other Universities may not have?
 
-### Statement of Purpose
+### Personal Statement
 #### Does the program/University have particularly strong diversity, equity, and inclusion resources you'd like to help support or that could benefit you?
 #### Does the program/University have specific values you align with that might be found in a mission statement or listed departmental goal?
 #### Are there opportunities like mentoring undergraduates or community outreach offered by the program/University that you'd like to participate in?
