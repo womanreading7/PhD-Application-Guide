@@ -700,6 +700,33 @@ Talking about the hardships you've faced as a first-generation student is encour
 
 #### In your closing paragraph, summarize what you've taken away from your struggles and how these have only made you a stronger PhD applicant. 
 
+## Common Struggles Faced by First-Generation Applicants
+If you’re having a difficult time thinking of challenges you might have had to deal with as a first-gen student, maybe some of these examples will help spark ideas for you.
+
+### Working to support your education
+This isn’t always the case, but many first-generation students come from a low-income household and find themselves having to hold a job while in college. This might have negatively impacted your grades or availability to volunteer in a research lab. Explaining this can help an admissions committee understand your circumstances. On the other hand, maybe you were able to work, keep your grades up, and do research. This is incredibly impressive, and an admissions committee should know it!
+
+### Lack of understanding from family
+Being first-gen can sometimes create a disconnect between you and your family. It’s difficult for a lot of students who are excited about their courses or research and want to talk about it, but have family who aren’t interested in academia or have a hard time understanding. 
+Find ways that this helped you grow or think innovatively, the same way this situation helped me learn how to effectively communicate science to people regardless of their educational background. If you’re like me and found that this made early college difficult for you, think about what you gained from this experience. Did you find you’re able to adapt easily, independent, or persistent.
+
+### Lack of resources to help navigate college
+I had no idea until I had already gone to college that many high schools host college fairs, have guidance counselors who help students with college/scholarship applications, and hold information sessions about college. It took a lot of work for me to navigate financial aid, scheduling classes, and all the little nuances of college that no one around me knew about.
+
+## Dealing with Loneliness as a First-Generation Applicant
+One of the many challenges the PhD application process brings to first-generation students is the feeling of loneliness or isolation. If you’re like me, the first in your entire extended family to pursue a PhD, this is especially true. It can be scary and difficult to have no one in your personal life who understands what you’re trying to do, and in some cases why you even want to do it. These are some things that helped me cope with feeling alone in this process. I hope some of them can help you, too.
+
+### Finding community
+As absolutely silly and ridiculous as this sounds, Reddit helped me tremendously in feeling more connected to people. Actually, odds are Reddit is how you found this blog in the first place. So, maybe it’s not that silly? If Reddit isn’t how you found this blog, check out r/gradadmissions to connect with thousands of people who are going through the same struggles as you.
+
+There are almost limitless ways to connect with people and find support if you look. Heck, some days even watching Youtube videos about PhD students and applicants helped me feel less alone.
+
+### Remember to be proud of yourself
+In case no one has told you lately, I’m so proud of you for embarking on this journey! I hope you’re proud of yourself, too. When things get difficult, remember to take a deep breath and remind yourself that you’re a trailblazer. Doing what no one else in your family has done before is amazing. You survived undergrad, and you will survive this too!
+
+### Keep your end goal in mind
+It can be easy to get so consumed by the application process that you completely forget why you’re doing this. Do you ultimately want to be a professor, work in a national lab, go into industry? When I found myself getting down and questioning why I got myself into this, I’d close my eyes and imagine myself getting a tenure track position. I thought about how it would feel to finally have my dream job, and suddenly all the struggles and insecurity would seem worth it.
+
 # Reducing Application Fee Burden
 Unfortunately, PhD applications are expensive. They often range from $70 to $130 a piece. If you're applying to approximately 10 schools, which is the typical suggestion, these fees can add up quickly. With that being said, let's talk about how to mitigate the burden of these fees.
 
