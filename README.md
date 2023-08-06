@@ -760,6 +760,8 @@ Nearly every PhD program I've come across offers application fee waivers, howeve
 #### The first place to start is simple. Just google "*University name* graduate application fee waivers"
 Most Universities will have a webpage dedicated to discussing how to access and submit application fee waivers and who is eligible to receive them. It should be one of the first search results you get.
 
+The Big Ten Academic Alliance (which includes Indiana University Bloomington, Michigan State University, Northwestern University, Ohio State University, Penn State University, Purdue University, Rutgers University-New Brunswick, University of Chicago, University of Illinois Urbana-Champaign, University of Iowa, University of Maryland, University of Michigan, University of Minnesota, University of Nebraska-Lincoln, and University of Wisconsin-Madison) also allows [eligible applicants](https://btaa.org/resources-for/students/freeapp/eligibility) to request fee waivers through the centralized [FreeApp form](https://btaa.org/resources-for/students/freeapp/introduction).
+
 #### Email the graduate program coordinator.
 If your Google search fails, try reaching out to the graduate program coordinator instead. They can give you additional information about waiver eligibility and access.
 
