@@ -11,19 +11,19 @@ I faced significant challanges in my PhD journey as a first-generation student. 
 
 # What You Will Find in This Guide
 ## Contents
-### 1. Planning Your Application: A Timeline
-### 2. A Guide to the Statement of Purpose and Personal Statement
-### 3. Choosing Where to Apply
-### 4. Reaching Out to Potential Advisors
-### 5. Addressing Red Flags/Weak Spots in Applications
-### 6. Formulating Your Research Question(s)
-### 7. A Guide for First-Generation Applicants
-### 8. Reducing Application Fee Burden
-### 9. Letters of Recommendation
-### 10. A Guide to Interviews
-### 11. Dealing With Rejections
-### 12. Example Statements
-### 13. Example CVs
+### [1. Planning Your Application: A Timeline](#planning-your-application-a-timeline)
+### [2. A Guide to the Statement of Purpose and Personal Statement](#a-guide-to-the-statement-of-purpose-and-personal-statement)
+### [3. Choosing Where to Apply](#choosing-where-to-apply)
+### [4. Reaching Out to Potential Advisors](#reaching-out-to-potential-advisors)
+### [5. Addressing Red Flags/Weak Spots in Applications](#addressing-red-flagsweak-spots)
+### [6. Formulating Your Research Question(s)](#formulating-your-research-questions)
+### [7. A Guide for First-Generation Applicants](#a-guide-for-first-generation-applicants)
+### [8. Reducing Application Fee Burden](#reducing-application-fee-burden)
+### [9. Letters of Recommendation](#letters-of-recommendation)
+### [10. A Guide to Interviews](#a-guide-to-interviews)
+### [11. Dealing With Rejections](#dealing-with-rejections)
+### [12. Example Statements](#example-statements)
+### [13. Example CVs](#example-cvs)
 
 # Planning Your Application: A Timeline
 Advanced planning and preparation are key to avoiding last-minute scrambling to get your materials finished and submitted on time. The following is a sample timeline that will help ensure you're on track for late November/early December PhD application deadlines. 
@@ -169,6 +169,7 @@ I suggest doing this at least a week before the application deadline, especially
 ### 4. Submit!
 Breathe a sigh of relief, you did it!
 
+[*Return to table of contents*](#contents)
 
 # A Guide to the Statement of Purpose and Personal Statement
 The most common question I see from people going through the application process is "What's the difference between a statement of purpose (SOP) and personal statement?". I asked this myself when I was starting my applications! It's difficult to differentiate the two when you are getting started, so I hope something I have here can help you if you're struggling with this. 
@@ -312,6 +313,8 @@ When explaining why that program is a good fit, consider trying to add a few det
 ### Section 3: Your qualifications
 When describing your research/academic experiences, try to weave in the things you'd be mentioning in a personal statement (e.g. what you gained from these, how they helped you grow, or important lessons you learned). If you have space, including especially relevant volunteer, outreach, or mentoring experiences can also be useful here.
 
+[*Return to table of contents*](#contents)
+
 # Choosing Where to Apply
 Finding the right PhD programs to apply to is half the battle when it comes to admissions. You could have the most impressive application packet in the world and it wouldn't matter if you applied to all the wrong places. So, let's talk about how to navigate this process and find the programs that will give you the best shot at being accepted.
 
@@ -383,6 +386,8 @@ Make sure things like cost of living, location, etc. wouldn't be a deal breaker 
 
 #### Ask yourself an important question - would I be thrilled to attend this school?
 At this point you've done your research on the advisors and the details of the program. If you were accepted, is this the kind of institution you'd be ecstatic to spend the next 5-7 years at? If your answer is no, why are you applying there?
+
+[*Return to table of contents*](#contents)
 
 # Reaching Out to Potential Advisors
 If you saw the application timeline section, you'll know that I recommend beginning to reach out to potential faculty advisors by late summer, and above I gave you information on how to identify these faculty. Now you might be thinking, "Great, I have my list! So...how do I reach out to them?" in which case, you've found the right post. 
@@ -469,6 +474,8 @@ Often times, program coordinators will be aware of which faculty are and are not
 
 ### Check the program and faculty websites regularly. 
 It is common for programs to post a list of which faculty will be considering accepting students or for faculty to update their departmental page/lab website to include whether they are accepting students. Be sure to check these sites regularly to help determine where you want to apply if you haven't received a response from or about your potential advisors.
+
+[*Return to table of contents*](#contents)
 
 # Addressing Red Flags/Weak Spots 
 If you're someone who considers there to be "red flags" or weak spots in your application materials like I was, addressing these can be nerve wracking. Here, I want to share some things you might find helpful in figuring out how to talk about these and shifting your thinking.
@@ -622,6 +629,8 @@ After I polished the outine above, I worked this into my SOP like this:
 
 *"My intended area of research strongly aligns with work being conducted by multiple faculty members at the University of _____. Dr. _____ long standing and diverse research regarding _______ is of particular interest to me. The ______ model, pioneered by Dr. ______, has been pivotal to our understanding of _______. I seek to explore how components of this model can be used to elucidate the connection between the autonomic nervous system, sleep, and psychopathology such as anxiety disorders. One focused line of inquiry related to this overall aim is investigating whether differences in _______ may explain the mixed findings regarding the association between sleep quality and trait anxiety. I am also interested in working with Dr. _______ to examine how _______ and the controlling neural structures change across the human lifespan. In this aim, I plan to investigate the ability of older adults to maintain positive affect despite age-related declines in ________ and prefrontal cortex activity."*
 
+[*Return to table of contents*](#contents)
+
 # A Guide for First-Generation Applicants
 As someone who was raised in a low-income and extremely rural area, the first person in their family to obtain an undergraduate degree, and the first in their entire extended family to pursue a PhD, there were a lot of struggles I faced during undergrad and the PhD application process. A huge part of my application journey was figuring out the best way to address these struggles and turn them into something positive. I firmly believe that first-generation applicants have so much to offer PhD programs and academia as a whole. I hope something in this post can help my fellow first-gens feel the same way!
 
@@ -727,6 +736,8 @@ In case no one has told you lately, I’m so proud of you for embarking on this 
 ### Keep your end goal in mind
 It can be easy to get so consumed by the application process that you completely forget why you’re doing this. Do you ultimately want to be a professor, work in a national lab, go into industry? When I found myself getting down and questioning why I got myself into this, I’d close my eyes and imagine myself getting a tenure track position. I thought about how it would feel to finally have my dream job, and suddenly all the struggles and insecurity would seem worth it.
 
+[*Return to table of contents*](#contents)
+
 # Reducing Application Fee Burden
 Unfortunately, PhD applications are expensive. They often range from $70 to $130 a piece. If you're applying to approximately 10 schools, which is the typical suggestion, these fees can add up quickly. With that being said, let's talk about how to mitigate the burden of these fees.
 
@@ -748,6 +759,8 @@ Nearly every PhD program I've come across offers application fee waivers, howeve
 ### Where to get fee waivers
 #### The first place to start is simple. Just google "*University name* graduate application fee waivers"
 Most Universities will have a webpage dedicated to discussing how to access and submit application fee waivers and who is eligible to receive them. It should be one of the first search results you get.
+
+The Big Ten Academic Alliance (which includes Indiana University Bloomington, Michigan State University, Northwestern University, Ohio State University, Penn State University, Purdue University, Rutgers University-New Brunswick, University of Chicago, University of Illinois Urbana-Champaign, University of Iowa, University of Maryland, University of Michigan, University of Minnesota, University of Nebraska-Lincoln, and University of Wisconsin-Madison) also allows [eligible applicants](https://btaa.org/resources-for/students/freeapp/eligibility) to request fee waivers through the centralized [FreeApp form](https://btaa.org/resources-for/students/freeapp/introduction).
 
 #### Email the graduate program coordinator.
 If your Google search fails, try reaching out to the graduate program coordinator instead. They can give you additional information about waiver eligibility and access.
@@ -792,6 +805,8 @@ You will most likely be required to submit one of the following:
 #### 1. A letter from the financial aid office at your current University which states somewhere that your Estimated Family Contribution is below a certain amount (determined by the University you are applying to).
 #### 2. Your Student Aid Report, derived from your FAFSA, which shows that your Estimated Family Contribution is below a certain amount (determined by the University you are applying to).
 #### 3. Your most recent Federal Income Tax Return. If you're an independent, this will be your 1040. If you're a dependent, you'll need your caregiver's return. These will need to show an income that is below a certain threshold (determined by the University you are applying to).
+
+[*Return to table of contents*](#contents)
 
 # Letters of Recommendation
 Some of the most frequent questions I see pop up from applicants are about letters of recommendation (LORs). This post will address some of these questions and will hopefully give you a better idea of who, how, and when to ask.
@@ -920,6 +935,8 @@ If you haven't received a response about your LOR from someone who previously ag
 
 ### On the day of the application deadline, email the graduate program coordinator to notify them that a letter will be submitted late.
 If the deadline date has arrived and you're still missing a letter, give the program a heads-up that your letter is on its way. There is no need to give a lengthy explanation or send a panicked, frantic email. Simply let them know that there has been a delay, and that the LOR will be submitted as soon as possible. 
+
+[*Return to table of contents*](#contents)
 
 # A Guide to Interviews
 Let's not deny it, interviews can be intimidating! Whether your interviews are in-person or remote, I hope something in this post can help you feel a little more prepared and confident!
@@ -1151,6 +1168,8 @@ Questions you'll be asked during interviews will, of course, vary depending on y
 #### How did your interest in your chosen field develop?
 #### Is your research interdisciplinary? Who in the department do you see yourself collaborating with if so?
 
+[*Return to table of contents*](#contents)
+
 # Dealing With Rejections
 There's no denying it, rejections can be hurtful. It's not a great feeling when you have put so much time, effort, and care into your application just for the end result to be a "no thank you" from a program. It's something that almost every single applicant will have to deal with, so I wanted to talk a bit about how to bounce back from rejections.
 
@@ -1225,6 +1244,8 @@ If you did not speak with anyone in the program prior to your application being 
 #### In my personal opinion, asking for feedback about your rejected application is really only worthwhile if you interviewed for a program. 
 At that point, you can be confident that a professor or program director actually knows who you are, has reviewed your application, and may give a meaningful response. 
 
+[*Return to table of contents*](#contents)
+
 # Example Statements
 There are tons of example statements you can find online, but I wanted to include a few here as well. Here, I have attached my own redacted statements as well as the statements from a friend who was kind enough to share theirs. As a note, these are the statements we both submitted to the programs we ultimately accepted offers to attend, and they are among the top programs in our respective fields. 
 
@@ -1243,6 +1264,8 @@ There are tons of example statements you can find online, but I wanted to includ
 
 ## A Friend's Diversity Statement
 <img width="650" alt="Diversity Statement Example" src="https://github.com/womanreading7/PhD-Application-Guide/assets/136257044/49a1dce8-7a98-4f4d-845c-a76e860bbeed">
+
+[*Return to table of contents*](#contents)
 
 # Example CVs
 There are also a lot of template CVs out there, and I highly recommend looking at the CVs of faculty you are interested in working with. In case you need it, though, I'm including my own CV and the CV of the same friend who shared their statements. 
